@@ -72,3 +72,16 @@ namespace BattleWithBasilisk
                     Console.WriteLine();
                     Console.WriteLine($"The basilisk uses its petrifying gaze on {names[gazeTarget]}!");
                     Console.WriteLine($"{names[gazeTarget]} rolls a {save} and fails to be saved.\n{names[gazeTarget]} is turned to stone!");
+                    names.RemoveAt(gazeTarget);
+                }
+
+                
+
+
+            }
+                
+
+            }
+
+        }
+    }
