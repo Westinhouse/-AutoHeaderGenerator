@@ -15,3 +15,11 @@ Global
 		{468CE47F-60B8-4837-B90A-4065EC31E851}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{468CE47F-60B8-4837-B90A-4065EC31E851}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{468CE47F-60B8-4837-B90A-4065EC31E851}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AC01414-F71F-4F72-A56D-A98053C64216}
+	EndGlobalSection
+EndGlobal
