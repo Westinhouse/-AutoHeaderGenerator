@@ -11,3 +11,10 @@ namespace Bowling_frame
             int pinsLeft = (10 - throw1);
             if (throw1 == 0)
                     {
+                Console.WriteLine("Your first throw: -");
+                Console.WriteLine("Miss!");
+            }
+            if (pinsLeft == 0)
+            {
+                Console.WriteLine("Your first throw: X");
+                Console.WriteLine("You scored a st
