@@ -25,4 +25,11 @@ namespace Bowling_frame
                 int throw2 = random.Next(0, pinsLeft + 1);
                 pinsLeft -= throw2;
                 if (throw2 == 0)
-                
+                {
+                    Console.WriteLine("Your second throw: -");
+                    Console.WriteLine("Miss!");
+                }
+                if (pinsLeft == 0)
+                {
+                    Console.WriteLine("Your Second throw: /");
+                    Console.Write
