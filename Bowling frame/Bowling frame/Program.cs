@@ -32,4 +32,10 @@ namespace Bowling_frame
                 if (pinsLeft == 0)
                 {
                     Console.WriteLine("Your Second throw: /");
-                    Console.Write
+                    Console.WriteLine("You scored a spare!");
+                }
+                else
+                {
+                    Console.WriteLine($"Your Second throw knocked down {throw2} pins!");
+                    int score = throw1 + throw2;
+                        Console.WriteLine($"You scored {score} points!");
