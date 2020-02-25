@@ -39,3 +39,8 @@ namespace Bowling_frame
                     Console.WriteLine($"Your Second throw knocked down {throw2} pins!");
                     int score = throw1 + throw2;
                         Console.WriteLine($"You scored {score} points!");
+                }
+            }
+        }
+    }
+}
