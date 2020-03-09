@@ -18,4 +18,6 @@ namespace ConsoleApp1
             else
                 Console.WriteLine("The answer is not greater than 10");
                 Console.WriteLine("Or the first number is not equal to the second");
-        
+        }
+    }
+}
