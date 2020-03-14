@@ -20,3 +20,11 @@ namespace ConsoleApp2
             }
 
             int c = 4;
+            if ((a + b + c > 10) && (a > b))
+            {
+                Console.WriteLine("The answer is greater than 10");
+                Console.WriteLine("And the first number is greater than the second");
+            }
+            else
+            {
+                Console.WriteLine("The answer i
