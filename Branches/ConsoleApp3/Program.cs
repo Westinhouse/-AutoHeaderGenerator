@@ -10,4 +10,15 @@ namespace ConsoleApp3
 
             ExploreIf();
 
-            ExploreLoops()
+            ExploreLoops();
+
+            ChallengeAnswer();
+
+            void ExploreIf()
+            {
+                int a = 5;
+                int b = 3;
+                if (a + b > 10)
+                {
+                    Console.WriteLine("The answer is greater than 10");
+              
