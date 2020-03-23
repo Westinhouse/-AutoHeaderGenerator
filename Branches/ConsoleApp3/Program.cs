@@ -36,4 +36,10 @@ namespace ConsoleApp3
                 else
                 {
                     Console.WriteLine("The answer is not greater than 10");
-                    Console.WriteLine("Or 
+                    Console.WriteLine("Or the first number is not greater than the second");
+                }
+
+                if ((a + b + c > 10) || (a > b))
+                {
+                    Console.WriteLine("The answer is greater than 10");
+                    Console.WriteLine("Or the first number is greater t
