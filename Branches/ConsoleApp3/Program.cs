@@ -69,4 +69,11 @@ namespace ConsoleApp3
 
                 for (int index = 0; index < 10; index++)
                 {
-          
+                    Console.WriteLine($"Hello World! The index is {index}");
+                }
+
+                for (int row = 1; row < 11; row++)
+                {
+                    Console.WriteLine($"The row is {row}");
+                }
+                for (char column = 'a'; colu
