@@ -58,4 +58,15 @@ namespace ConsoleApp3
                 {
                     Console.WriteLine($"Hello World! The counter is {counter}");
                     counter++;
-             
+                }
+
+                counter = 0;
+                do
+                {
+                    Console.WriteLine($"Hello World! The counter is {counter}");
+                    counter++;
+                } while (counter < 10);
+
+                for (int index = 0; index < 10; index++)
+                {
+          
