@@ -84,4 +84,13 @@ namespace ConsoleApp3
                 for (int row = 1; row < 11; row++)
                 {
                     for (char column = 'a'; column < 'k'; column++)
-          
+                    {
+                        Console.WriteLine($"The cell is ({row}, {column})");
+                    }
+                }
+            }
+
+            void ChallengeAnswer()
+            {
+                int sum = 0;
+                for (int number = 1; number < 21; number
