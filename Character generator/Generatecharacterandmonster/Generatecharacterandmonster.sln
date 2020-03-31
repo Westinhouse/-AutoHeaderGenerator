@@ -6,4 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Generatecharacterandmonster", "Generatecharacterandmonster.csproj", "{60B177AB-DFC9-4D7D-8DE2-9845B924ABEA}"
 EndProject
 Global
-	GlobalSection(SolutionConfigurationPlatforms) = preSol
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60B177AB-DFC9-4D7D-8DE2-9845B924ABEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60B177AB-DFC9-4D7D-8DE2-9845B924ABEA}.Debug|Any CPU
