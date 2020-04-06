@@ -18,4 +18,12 @@ namespace Generatecharacterandmonster
             {
                 strenght += roll(6);
             } 
-            Console.WriteLine($"A character with stren
+            Console.WriteLine($"A character with strenght {strenght} was created.");
+            
+            int cubeHp = 0;
+            for (int counter = 0; counter < 8; counter++)
+            {
+                cubeHp += roll(10);  
+            }
+            cubeHp += 40;
+            Console.WriteLine($"A gelatinous cube with 
