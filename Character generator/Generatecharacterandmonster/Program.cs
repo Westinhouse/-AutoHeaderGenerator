@@ -35,4 +35,13 @@ namespace Generatecharacterandmonster
             {
                 cubeArmy += roll(10);
             }
-           
+                Console.WriteLine($"Dear gods, an army off 100 cubes descends upon us with a total of {cubeArmy} HP. We are doomed!");
+
+
+
+
+
+
+        }
+    }
+}
