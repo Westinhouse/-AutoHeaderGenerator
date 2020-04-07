@@ -26,4 +26,13 @@ namespace Generatecharacterandmonster
                 cubeHp += roll(10);  
             }
             cubeHp += 40;
-            Console.WriteLine($"A gelatinous cube with 
+            Console.WriteLine($"A gelatinous cube with {cubeHp} HP appears!");
+
+            // generate 100 gelatinous cubes and combine their hp and print
+
+            int cubeArmy = 4000;
+                for (int counter = 0; counter < 800; counter++)
+            {
+                cubeArmy += roll(10);
+            }
+           
