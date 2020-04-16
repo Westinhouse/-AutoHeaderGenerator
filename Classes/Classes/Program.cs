@@ -27,4 +27,15 @@ namespace Classes
             {
                 Name = "Winterfell",
                 Description = "the capital of the Kingdom of the North"
-    
+            });
+
+            locations.Add(new Location
+            {
+                Name = "Pyke",
+                Description = "the stronghold and seat of House Greyjoy"
+            });
+
+            locations.Add(new Location
+            {
+                Name = "Riverrun",
+                Descripti
