@@ -38,4 +38,10 @@ namespace Classes
             locations.Add(new Location
             {
                 Name = "Riverrun",
-                Descripti
+                Description = "a large castle located in the central-western part of the Riverlands"
+            });
+
+            locations.Add(new Location
+            {
+                Name = "The Trident",
+                Description = "one of the largest and most well-know rivers on the continent of Westero
