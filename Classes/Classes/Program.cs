@@ -44,4 +44,15 @@ namespace Classes
             locations.Add(new Location
             {
                 Name = "The Trident",
-                Description = "one of the largest and most well-know rivers on the continent of Westero
+                Description = "one of the largest and most well-know rivers on the continent of Westeros"
+            });
+
+            locations.Add(new Location
+            {
+                Name = "King's Landing",
+                Description = "the capital, and the largest city, of the Seven Kingdoms"
+            });
+
+            locations.Add(new Location
+            {
+              
