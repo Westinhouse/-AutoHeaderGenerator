@@ -55,4 +55,10 @@ namespace Classes
 
             locations.Add(new Location
             {
-              
+                Name = "Highgarden",
+                Description = "the seat of House Tyrell and the regional capital of the Reach"
+            });
+
+            ConnectLocations(locations[0], locations[1]);
+            ConnectLocations(locations[0], locations[3]);
+            ConnectLocations
