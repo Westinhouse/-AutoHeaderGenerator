@@ -61,4 +61,9 @@ namespace Classes
 
             ConnectLocations(locations[0], locations[1]);
             ConnectLocations(locations[0], locations[3]);
-            ConnectLocations
+            ConnectLocations (locations[1], locations[2]);
+            ConnectLocations(locations[1], locations[5]);
+            ConnectLocations(locations[2], locations[3]);
+            ConnectLocations(locations[2], locations[4]);
+            ConnectLocations(locations[2], locations[5]);
+            ConnectLoca
