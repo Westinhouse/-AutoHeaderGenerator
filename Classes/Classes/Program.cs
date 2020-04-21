@@ -66,4 +66,10 @@ namespace Classes
             ConnectLocations(locations[2], locations[3]);
             ConnectLocations(locations[2], locations[4]);
             ConnectLocations(locations[2], locations[5]);
-            ConnectLoca
+            ConnectLocations(locations[4], locations[5]);
+            ConnectLocations(locations[4], locations[3]);
+
+            var random = new Random();
+            Location currentLocation = locations[(random.Next(0, locations.Count - 1))];
+            bool quit = false;
+            while (quit
