@@ -72,4 +72,9 @@ namespace Classes
             var random = new Random();
             Location currentLocation = locations[(random.Next(0, locations.Count - 1))];
             bool quit = false;
-            while (quit
+            while (quit == false)
+            {
+                Console.WriteLine($"Welcome to {currentLocation.Name}, {currentLocation.Description}.");
+                Console.WriteLine("---");
+                Console.WriteLine("The possible destinations are:");
+         
