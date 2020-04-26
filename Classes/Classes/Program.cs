@@ -77,4 +77,12 @@ namespace Classes
                 Console.WriteLine($"Welcome to {currentLocation.Name}, {currentLocation.Description}.");
                 Console.WriteLine("---");
                 Console.WriteLine("The possible destinations are:");
-         
+                int destinationIndex = 1;
+
+                foreach (Location neighbor in currentLocation.Neighbors)
+                {
+                    Console.WriteLine($"{destinationIndex}. {neighbor.Name}");
+                    destinationIndex++;
+                }
+
+                Console
