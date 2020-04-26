@@ -85,4 +85,9 @@ namespace Classes
                     destinationIndex++;
                 }
 
-                Console
+                Console.WriteLine();
+                Console.WriteLine("Where do you want to travel?");
+                string nextDestination = Console.ReadLine();
+                int selectedDestination = Convert.ToInt32(nextDestination);
+                currentLocation = currentLocation.Neighbors[selectedDestination - 1];
+   
