@@ -90,4 +90,19 @@ namespace Classes
                 string nextDestination = Console.ReadLine();
                 int selectedDestination = Convert.ToInt32(nextDestination);
                 currentLocation = currentLocation.Neighbors[selectedDestination - 1];
-   
+                Console.WriteLine();
+
+              
+                
+                
+                
+            }
+
+
+
+            
+
+
+        }
+    }
+}
