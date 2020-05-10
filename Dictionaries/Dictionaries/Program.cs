@@ -66,3 +66,15 @@ namespace Dictionaries
             {
                 {2000, "Australia"},
                 {2004, "Greece"},
+                {2008, "China" },
+                {2012, "United Kingdom" },
+                {2016, "Brazil" },
+                {2020, "Japan" }
+            };
+            for (int i = 0; i < 10; i++)
+            {
+                GenerateQuestion(summerGames, winterGames);
+            }
+        }
+    }
+}
