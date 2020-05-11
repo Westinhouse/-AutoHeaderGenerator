@@ -9,4 +9,11 @@ namespace Dictionaries_3_boss_level
         static void Main(string[] args)
         {
             var scores = new Dictionary<string, int>();
-            bool q
+            bool quit = false;
+            while (quit == false)
+            {
+                //ask who won
+                
+                Console.WriteLine("Who won this round?");
+                string playerName = Console.ReadLine();
+                playerName = playerName.ToLowerInvariant
