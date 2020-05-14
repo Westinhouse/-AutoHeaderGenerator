@@ -16,4 +16,11 @@ namespace Dictionaries_3_boss_level
                 
                 Console.WriteLine("Who won this round?");
                 string playerName = Console.ReadLine();
-                playerName = playerName.ToLowerInvariant
+                playerName = playerName.ToLowerInvariant().Trim();
+              
+                // figure out if that player has already scored, if so add 1 to score
+                if (scores.ContainsKey(playerName))
+                {
+                    scores[playerName] += 1;
+                }
+         
