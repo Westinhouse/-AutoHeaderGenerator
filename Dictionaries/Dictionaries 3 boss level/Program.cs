@@ -23,4 +23,11 @@ namespace Dictionaries_3_boss_level
                 {
                     scores[playerName] += 1;
                 }
-         
+                else // store that player name in dictionary names
+                {
+                    scores[playerName] = 1;
+                }
+
+                // sort the (something) by scores, starting with highest and descending
+                // Print the playernames and scores
+                C
