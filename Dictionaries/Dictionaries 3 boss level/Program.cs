@@ -30,4 +30,8 @@ namespace Dictionaries_3_boss_level
 
                 // sort the (something) by scores, starting with highest and descending
                 // Print the playernames and scores
-                C
+                Console.WriteLine("Scoreboard: -----");
+                IEnumerable<string> sortedPlayers = scores.Keys.OrderBy((playerName) => scores[playerName]).Reverse();
+                foreach (string player in sortedPlayers)
+                {
+                    Console.WriteLine($"{scor
