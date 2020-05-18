@@ -34,4 +34,10 @@ namespace Dictionaries_3_boss_level
                 IEnumerable<string> sortedPlayers = scores.Keys.OrderBy((playerName) => scores[playerName]).Reverse();
                 foreach (string player in sortedPlayers)
                 {
-                    Console.WriteLine($"{scor
+                    Console.WriteLine($"{scores[player]}, {player[0..1].ToUpperInvariant()}{player[1..]}");
+                }
+                
+            }
+        }
+    }
+}
