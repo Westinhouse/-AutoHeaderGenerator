@@ -23,4 +23,11 @@ namespace Lists_mission_1
                     var rolls = new List<int>();
 
                     for (int j = 0; j < 4; j++)
-        
+                    {
+                        rolls.Add(roll(6));
+                    }
+                   
+                    Console.Write($"You roll {String.Join(", ", rolls)}");
+                    rolls.Sort();
+                    int abilityScore = rolls[1] + rolls[2] + rolls[3];
+                    abilityS
