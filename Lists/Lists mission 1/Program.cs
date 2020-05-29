@@ -30,4 +30,10 @@ namespace Lists_mission_1
                     Console.Write($"You roll {String.Join(", ", rolls)}");
                     rolls.Sort();
                     int abilityScore = rolls[1] + rolls[2] + rolls[3];
-                    abilityS
+                    abilityScores.Add (abilityScore);
+                    
+                    Console.Write($", The ability score is {abilityScore}\n");
+
+                }
+                abilityScores.Sort();
+                Console.WriteLine($"Your avalible ability scores are {S
