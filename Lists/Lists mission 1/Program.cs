@@ -36,4 +36,10 @@ namespace Lists_mission_1
 
                 }
                 abilityScores.Sort();
-                Console.WriteLine($"Your avalible ability scores are {S
+                Console.WriteLine($"Your avalible ability scores are {String.Join (", ", abilityScores)}");
+                
+
+            }
+        }
+    }
+}
