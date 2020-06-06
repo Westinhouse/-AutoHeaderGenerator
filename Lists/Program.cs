@@ -48,4 +48,14 @@ namespace fundamentals_lists
                 }
                 else
                 {
-                    Console.WriteLine($"The name {names[index]}
+                    Console.WriteLine($"The name {names[index]} is at index {index}");
+
+                }
+
+                names.Sort();
+                foreach (var name in names)
+                {
+                    Console.WriteLine($"Hello {name.ToUpper()}!");
+                }
+
+                var fibonacciNumbers =
