@@ -66,4 +66,11 @@ namespace fundamentals_lists
                     var previous = fibonacciNumbers[fibonacciNumbers.Count - 1];
                     var previous2 = fibonacciNumbers[fibonacciNumbers.Count - 2];
 
-                    fibonacciNumber
+                    fibonacciNumbers.Add(previous + previous2);
+                }
+                foreach (var item in fibonacciNumbers)
+                    Console.WriteLine(item);
+            }
+        }
+    }
+}
