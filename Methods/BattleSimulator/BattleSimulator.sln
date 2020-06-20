@@ -21,4 +21,5 @@ Global
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {E36A4788-7FD6-49B0-92ED-ABA7B2C2B0F8}
-	EndGlobalSecti
+	EndGlobalSection
+EndGlobal
