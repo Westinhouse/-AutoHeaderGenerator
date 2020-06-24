@@ -25,4 +25,10 @@ namespace BattleSimulator
             {
                 foreach (string name in heroNames)
                 {
-                    int 
+                    int Attack = (DiceRoll(2, 6));
+                    Console.WriteLine($"\n{name} strikes the {monsterName} for {Attack} damage.");
+                    monsterHP -= Attack;
+
+                    if (monsterHP <= 0)
+                    {
+                        Console.WriteLin
