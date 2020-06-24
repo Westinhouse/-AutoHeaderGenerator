@@ -17,4 +17,12 @@ namespace BattleSimulator
 
         }
 
-        static void SimulateBattle(List<string> heroNames, string monsterName, int monsterHP, i
+        static void SimulateBattle(List<string> heroNames, string monsterName, int monsterHP, int savingThrowDC)
+        {
+            var random = new Random();
+            Console.WriteLine($"A fearsome {monsterName} with {monsterHP}HP appears!");
+            while (monsterHP > 0)
+            {
+                foreach (string name in heroNames)
+                {
+                    int 
