@@ -38,4 +38,11 @@ namespace BattleSimulator
                     }
 
                     else
-                   
+                    {
+                        Console.WriteLine($"The {monsterName} has {monsterHP}HP remaining");
+                    }
+                }
+                // The Monster attacks a random hero with its attack, if its alive.
+
+                int save = DiceRoll(1, 20, 5);
+       
