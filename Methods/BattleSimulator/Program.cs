@@ -31,4 +31,11 @@ namespace BattleSimulator
 
                     if (monsterHP <= 0)
                     {
-                        Console.WriteLin
+                        Console.WriteLine($"The {monsterName} has 0 HP left.\nThe {monsterName} collapses.");
+                        Console.WriteLine("Our heroes celebrate their victory!");
+                        Console.WriteLine();
+                        break;
+                    }
+
+                    else
+                   
