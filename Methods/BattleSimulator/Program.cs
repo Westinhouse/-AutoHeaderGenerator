@@ -45,4 +45,9 @@ namespace BattleSimulator
                 // The Monster attacks a random hero with its attack, if its alive.
 
                 int save = DiceRoll(1, 20, 5);
-       
+                int attackTarget = random.Next(heroNames.Count);
+
+                if (heroNames.Count == 0)
+                {
+                    Console.WriteLine("The party has failed and the evil continues to cause turmoil and misery in the lands");
+                    Console.WriteL
