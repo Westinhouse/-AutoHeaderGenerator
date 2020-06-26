@@ -50,4 +50,11 @@ namespace BattleSimulator
                 if (heroNames.Count == 0)
                 {
                     Console.WriteLine("The party has failed and the evil continues to cause turmoil and misery in the lands");
-                    Console.WriteL
+                    Console.WriteLine("G A M E O V E R");
+                    return;
+                }
+
+                if (save >= savingThrowDC && monsterHP > 0)
+                {
+                    Console.WriteLine();
+                    Console.WriteLine($"The {monsterName} unleashes a
