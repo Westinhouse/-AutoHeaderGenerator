@@ -57,4 +57,10 @@ namespace BattleSimulator
                 if (save >= savingThrowDC && monsterHP > 0)
                 {
                     Console.WriteLine();
-                    Console.WriteLine($"The {monsterName} unleashes a
+                    Console.WriteLine($"The {monsterName} unleashes a deadly attack on {heroNames[attackTarget]}!");
+                    Console.WriteLine($"{heroNames[attackTarget]} rolls a {save} and is saved from the attack!");
+                }
+
+                if (save <= savingThrowDC - 1 && monsterHP > 0)
+                {
+                   
