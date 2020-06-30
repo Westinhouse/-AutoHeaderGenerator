@@ -65,4 +65,16 @@ namespace BattleSimulator
                 {
                     Console.WriteLine();
                     Console.WriteLine($"The {monsterName} unleashes a deadly attack on {heroNames[attackTarget]}!");
-                    Console.WriteLine($"{heroNames[attackTarget]} rolls a {save} and fails to be saved.\n{heroNames[attackTarget]} i
+                    Console.WriteLine($"{heroNames[attackTarget]} rolls a {save} and fails to be saved.\n{heroNames[attackTarget]} is slain!");
+                    heroNames.RemoveAt(attackTarget);
+                }
+
+            }
+        }
+
+        static void Main(string[] args)
+        {
+
+            // Create a party of five warriors
+            var heroNames = new List<string> { "Regal", "Dwyn", "Jyra", "Aska" };
+            Console
