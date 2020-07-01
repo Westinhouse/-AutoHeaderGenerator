@@ -77,4 +77,10 @@ namespace BattleSimulator
 
             // Create a party of five warriors
             var heroNames = new List<string> { "Regal", "Dwyn", "Jyra", "Aska" };
-            Console
+            Console.WriteLine($"A Party of brave warriors ({String.Join(", ", heroNames)}) descends into the dungeon");
+
+            // Create a monster and set their hp and attack DCs
+            string monsterName = "Orc";
+            int monsterHP = DiceRoll(2, 8, 6);
+            int savingThrowDC = 12;
+
