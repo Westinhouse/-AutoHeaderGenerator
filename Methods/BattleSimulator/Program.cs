@@ -84,3 +84,12 @@ namespace BattleSimulator
             int monsterHP = DiceRoll(2, 8, 6);
             int savingThrowDC = 12;
 
+            SimulateBattle(heroNames, monsterName, monsterHP, savingThrowDC);
+
+            //If the heroes are still alive, set a new monster on them
+            
+
+            if (heroNames.Count > 0)
+            {
+                monsterName = "Mage";
+                monsterHP
