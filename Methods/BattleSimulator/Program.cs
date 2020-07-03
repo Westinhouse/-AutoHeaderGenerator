@@ -99,4 +99,10 @@ namespace BattleSimulator
                 //If heroes are still alive send the final monster on them
                 if (heroNames.Count > 0)
                 {
-            
+                    monsterName = "Troll";
+                    monsterHP = DiceRoll(8, 10, 40);
+                    savingThrowDC = 18;
+                    SimulateBattle(heroNames, monsterName, monsterHP, savingThrowDC);
+
+                    if (heroNames.Count > 1)
+                    
