@@ -1,0 +1,8 @@
+
+﻿Leather,Leather,Light,10
+StuddedLeather,Studded leather,Light,13
+Hide,Hide,Medium,12
+ChainShirt,Chain shirt,Medium,20
+ScaleMail,Scale mail,Medium,45
+ChainMail,Chain mail,Heavy,55
+Plate,Plate,Heavy,65

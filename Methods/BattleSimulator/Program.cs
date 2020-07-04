@@ -112,4 +112,15 @@ namespace BattleSimulator
 
                     }
 
-                    if (heroNames.Count
+                    if (heroNames.Count == 1)
+                    {
+                        Console.WriteLine($"The lone hero {heroNames[0]} returns from the dungeon, richer in gold but poorer in friends");
+                        return;
+                    }
+                }
+            }
+
+        }
+    }
+}
+
