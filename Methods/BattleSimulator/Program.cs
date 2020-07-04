@@ -105,4 +105,11 @@ namespace BattleSimulator
                     SimulateBattle(heroNames, monsterName, monsterHP, savingThrowDC);
 
                     if (heroNames.Count > 1)
-                    
+                    {
+                        Console.WriteLine($"The remaining heroes ({String.Join(", ", heroNames)}) emerge victorious from the dungeon!" +
+                            $"\nThe people of the land rejoice!");
+                        return;
+
+                    }
+
+                    if (heroNames.Count
