@@ -264,3 +264,291 @@ Bandit Captain
 Medium humanoid (any race), any non-lawful alignment
 Hit Points: 65 (10d8+20) 
 Armor Class: 15 (Studded Leather) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Barbed Devil
+Medium fiend (devil), lawful evil
+Hit Points: 110 (13d8+52) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Basilisk
+Medium monstrosity, unaligned
+Hit Points: 52 (8d8+16) 
+Armor Class: 15 (Natural Armor) 
+Speed: 20 ft. 
+Challenge Rating: 3 (700 XP)
+
+Bat
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 12 
+Speed: 5 ft., fly 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Bearded Devil
+Medium fiend (devil), lawful evil
+Hit Points: 52 (8d8+16) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 3 (700 XP)
+
+Behir
+Huge monstrosity, neutral evil
+Hit Points: 168 (16d12+64) 
+Armor Class: 17 (Natural Armor) 
+Speed: 50 ft., climb 40 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Berserker
+Medium humanoid (any race), any chaotic alignment
+Hit Points: 67 (9d8+27) 
+Armor Class: 13 (Hide Armor) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Black Bear
+Medium beast, unaligned
+Hit Points: 19 (3d8+6) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft., climb 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Black Dragon Wyrmling
+Medium dragon, chaotic evil
+Hit Points: 33 (6d8+6) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Black Pudding
+Large ooze, unaligned
+Hit Points: 85 (10d10+30) 
+Armor Class: 7 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Blink Dog
+Medium fey, lawful good
+Hit Points: 22 (4d8+4) 
+Armor Class: 13 
+Speed: 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Blood Hawk
+Small beast, unaligned
+Hit Points: 7 (2d6) 
+Armor Class: 12 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Blue Dragon Wyrmling
+Medium dragon, lawful evil
+Hit Points: 52 (8d8+16) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., burrow 15 ft., fly 60 ft. 
+Challenge Rating: 3 (700 XP)
+
+Boar
+Medium beast, unaligned
+Hit Points: 11 (2d8+2) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Bone Devil
+Large fiend (devil), lawful evil
+Hit Points: 142 (15d10+60) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 40 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Brass Dragon Wyrmling
+Medium dragon, chaotic good
+Hit Points: 16 (3d8+3) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., burrow 15 ft., fly 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Bronze Dragon Wyrmling
+Medium dragon, lawful good
+Hit Points: 32 (5d8+10) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Brown Bear
+Large beast, unaligned
+Hit Points: 34 (4d10+12) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft., climb 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Bugbear
+Medium humanoid (goblinoid), chaotic evil
+Hit Points: 27 (5d8+5) 
+Armor Class: 16 (Hide Armor, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Bulette
+Large monstrosity, unaligned
+Hit Points: 94 (9d10+45) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Camel
+Large beast, unaligned
+Hit Points: 15 (2d10+4) 
+Armor Class: 9 
+Speed: 50 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Cat
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 12 
+Speed: 40 ft., climb 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Centaur
+Large monstrosity, neutral good
+Hit Points: 45 (6d10+12) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 2 (450 XP)
+
+Chain Devil
+Medium fiend (devil), lawful evil
+Hit Points: 85 (10d8+40) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Chimera
+Large monstrosity, chaotic evil
+Hit Points: 114 (12d10+48) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Chuul
+Large aberration, chaotic evil
+Hit Points: 93 (11d10+33) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Clay Golem
+Large construct, unaligned
+Hit Points: 133 (14d10+56) 
+Armor Class: 14 (Natural Armor) 
+Speed: 20 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Cloaker
+Large aberration, chaotic neutral
+Hit Points: 78 (12d10+12) 
+Armor Class: 14 (Natural Armor) 
+Speed: 10 ft., fly 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Cloud Giant
+Huge giant, neutral good (50%) or neutral evil (50%)
+Hit Points: 200 (16d12+96) 
+Armor Class: 14 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Cockatrice
+Small monstrosity, unaligned
+Hit Points: 27 (6d6+6) 
+Armor Class: 11 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Commoner
+Medium humanoid (any race), any alignment
+Hit Points: 4 (1d8) 
+Armor Class: 10 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Constrictor Snake
+Large beast, unaligned
+Hit Points: 13 (2d10+2) 
+Armor Class: 12 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Copper Dragon Wyrmling
+Medium dragon, chaotic good
+Hit Points: 22 (4d8+4) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., climb 30 ft., fly 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Couatl
+Medium celestial, lawful good
+Hit Points: 97 (13d8+39) 
+Armor Class: 19 (Natural Armor) 
+Speed: 30 ft., fly 90 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Crab
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 11 (Natural Armor) 
+Speed: 20 ft., swim 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Crocodile
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 12 (Natural Armor) 
+Speed: 20 ft., swim 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Cult Fanatic
+Medium humanoid (any race), any non-good alignment
+Hit Points: 33 (6d8+6) 
+Armor Class: 13 (Leather Armor) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Cultist
+Medium humanoid (any race), any non-good alignment
+Hit Points: 9 (2d8) 
+Armor Class: 12 (Leather Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Darkmantle
+Small monstrosity, unaligned
+Hit Points: 22 (5d6+5) 
+Armor Class: 11 
+Speed: 10 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Death Dog
+Medium monstrosity, neutral evil
+Hit Points: 39 (6d8+12) 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Deep Gnome (Svirfneblin)
+Small humanoid (gnome), neutral good
+Hit Points: 16 (3d6 + 6) 
+Armor Class: 15 (chain shirt) 
+Speed: 20 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Deer
+Medium beast, unaligned
+Hit Points: 4 (1d8) 
+Armor Class: 13 
+Speed: 50 ft. 
