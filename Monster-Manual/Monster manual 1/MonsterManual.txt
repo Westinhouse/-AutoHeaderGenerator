@@ -861,3 +861,254 @@ Hit Points: 42 (5d12+10)
 Armor Class: 14 (Natural Armor) 
 Speed: 60 ft. 
 Challenge Rating: 2 (450 XP)
+
+Giant Fire Beetle
+Small beast, unaligned
+Hit Points: 4 (1d6+1) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Giant Frog
+Medium beast, unaligned
+Hit Points: 18 (4d8) 
+Armor Class: 11 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Goat
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Giant Hyena
+Large beast, unaligned
+Hit Points: 45 (6d10+12) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Lizard
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 12 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Octopus
+Large beast, unaligned
+Hit Points: 52 (8d10+8) 
+Armor Class: 11 
+Speed: 10 ft., swim 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Owl
+Large beast, neutral
+Hit Points: 19 (3d10+3) 
+Armor Class: 12 
+Speed: 5 ft., fly 60 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Poisonous Snake
+Medium beast, unaligned
+Hit Points: 11 (2d8+2) 
+Armor Class: 14 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Rat
+Small beast, unaligned
+Hit Points: 7 (2d6) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Giant Scorpion
+Large beast, unaligned
+Hit Points: 52 (7d10+14) 
+Armor Class: 15 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 3 (700 XP)
+
+Giant Sea Horse
+Large beast, unaligned
+Hit Points: 16 (3d10) 
+Armor Class: 13 (Natural Armor) 
+Speed: 0 ft., swim 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Giant Shark
+Huge beast, unaligned
+Hit Points: 126 (11d12+55) 
+Armor Class: 13 (Natural Armor) 
+Speed: Swim 50 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Giant Spider
+Large beast, unaligned
+Hit Points: 26 (4d10+4) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Toad
+Large beast, unaligned
+Hit Points: 39 (6d10+6) 
+Armor Class: 11 
+Speed: 20 ft., swim 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Vulture
+Large beast, neutral evil
+Hit Points: 22 (3d10+6) 
+Armor Class: 10 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Wasp
+Medium beast, unaligned
+Hit Points: 13 (3d8) 
+Armor Class: 12 
+Speed: 10 ft., fly 50 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Giant Weasel
+Medium beast, unaligned
+Hit Points: 9 (2d8) 
+Armor Class: 13 
+Speed: 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Giant Wolf Spider
+Medium beast, unaligned
+Hit Points: 11 (2d8+2) 
+Armor Class: 13 
+Speed: 40 ft., climb 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Gibbering Mouther
+Medium aberration, neutral
+Hit Points: 67 (9d8+27) 
+Armor Class: 9 
+Speed: 10 ft., swim 10 ft. 
+Challenge Rating: 2 (450 XP)
+
+Glabrezu
+Large fiend (demon), chaotic evil
+Hit Points: 157 (15d10+75) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Gladiator
+Medium humanoid (any race), any alignment
+Hit Points: 112 (15d8+45) 
+Armor Class: 16 (Studded Leather, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Gnoll
+Medium humanoid (gnoll), chaotic evil
+Hit Points: 22 (5d8) 
+Armor Class: 15 (Hide Armor, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Goat
+Medium beast, unaligned
+Hit Points: 4 (1d8) 
+Armor Class: 10 
+Speed: 40 ft. 
+Challenge Rating: 0 (10 XP)
+
+Goblin
+Small humanoid (goblinoid), neutral evil
+Hit Points: 7 (2d6) 
+Armor Class: 15 (Leather Armor, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Gold Dragon Wyrmling
+Medium dragon, lawful good
+Hit Points: 60 (8d8+24) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 3 (700 XP)
+
+Gorgon
+Large monstrosity, unaligned
+Hit Points: 114 (12d10+48) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Gray Ooze
+Medium ooze, unaligned
+Hit Points: 22 (3d8+9) 
+Armor Class: 8 
+Speed: 10 ft., climb 10 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Green Dragon Wyrmling
+Medium dragon, lawful evil
+Hit Points: 38 (7d8+7) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Green Hag
+Medium fey, neutral evil
+Hit Points: 82 (11d8+33) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 3 (700 XP)
+
+Grick
+Medium monstrosity, neutral
+Hit Points: 27 (6d8) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Griffon
+Large monstrosity, unaligned
+Hit Points: 59 (7d10+21) 
+Armor Class: 12 
+Speed: 30 ft., fly 80 ft. 
+Challenge Rating: 2 (450 XP)
+
+Grimlock
+Medium humanoid (grimlock), neutral evil
+Hit Points: 11 (2d8+2) 
+Armor Class: 11 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Guard
+Medium humanoid (any race), any alignment
+Hit Points: 11 (2d8+2) 
+Armor Class: 16 (Chain Shirt, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Guardian Naga
+Large monstrosity, lawful good
+Hit Points: 127 (15d10+45) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Gynosphinx
+Large monstrosity, lawful neutral
+Hit Points: 136 (16d10+48) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., fly 60 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Half-Red Dragon Veteran
+Medium humanoid (human), any alignment
+Hit Points: 65 (10d8+20) 
+Armor Class: 18 (plate) 
+Speed: 30 ft. 
