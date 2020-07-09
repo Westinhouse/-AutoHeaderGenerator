@@ -1112,3 +1112,281 @@ Medium humanoid (human), any alignment
 Hit Points: 65 (10d8+20) 
 Armor Class: 18 (plate) 
 Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Harpy
+Medium monstrosity, chaotic evil
+Hit Points: 38 (7d8+7) 
+Armor Class: 11 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Hawk
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 13 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 0 (10 XP)
+
+Hell Hound
+Medium fiend, lawful evil
+Hit Points: 45 (7d8+14) 
+Armor Class: 15 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Rating: 3 (700 XP)
+
+Hezrou
+Large fiend (demon), chaotic evil
+Hit Points: 136 (13d10+65) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Hill Giant
+Huge giant, chaotic evil
+Hit Points: 105 (10d12+40) 
+Armor Class: 13 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Hippogriff
+Large monstrosity, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 11 
+Speed: 40 ft, fly 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Hobgoblin
+Medium humanoid (goblinoid), lawful evil
+Hit Points: 11 (2d8+2) 
+Armor Class: 18 (Chain Mail, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Homunculus
+Tiny construct, neutral
+Hit Points: 5 (2d4) 
+Armor Class: 13 (Natural Armor) 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 0 (10 XP)
+
+Horned Devil
+Large fiend (devil), lawful evil
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 20 ft., fly 60 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Hunter Shark
+Large beast, unaligned
+Hit Points: 45 (6d10+12) 
+Armor Class: 12 (Natural Armor) 
+Speed: Swim 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Hydra
+Huge monstrosity, unaligned
+Hit Points: 172 (15d12+75) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Hyena
+Medium beast, unaligned
+Hit Points: 5 (1d8+1) 
+Armor Class: 11 
+Speed: 50 ft. 
+Challenge Rating: 0 (10 XP)
+
+Ice Devil
+Large fiend (devil), lawful evil
+Hit Points: 180 (19d10+76) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Ice Mephit
+Small elemental, neutral evil
+Hit Points: 21 (6d6) 
+Armor Class: 11 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Imp
+Tiny fiend (devil, shapechanger), lawful evil
+Hit Points: 10 (3d4+3) 
+Armor Class: 13 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Incubus
+Medium fiend (shapechanger), neutral evil
+Hit Points: 66 (12d8 + 12) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Invisible Stalker
+Medium elemental, neutral
+Hit Points: 104 (16d8+32) 
+Armor Class: 14 
+Speed: 50 ft., fly 50 ft. (hover) 
+Challenge Rating: 6 (2,300 XP)
+
+Iron Golem
+Large construct, unaligned
+Hit Points: 210 (20d10+100) 
+Armor Class: 20 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Jackal
+Small beast, unaligned
+Hit Points: 3 (1d6) 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 0 (10 XP)
+
+Killer Whale
+Huge beast, unaligned
+Hit Points: 90 (12d12+12) 
+Armor Class: 12 (Natural Armor) 
+Speed: Swim 60 ft. 
+Challenge Rating: 3 (700 XP)
+
+Knight
+Medium humanoid (any race), any alignment
+Hit Points: 52 (8d8+16) 
+Armor Class: 18 (Plate) 
+Speed: 30 ft. 
+Challenge Rating: 3 (700 XP)
+
+Kobold
+Small humanoid (kobold), lawful evil
+Hit Points: 5 (2d6-2) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Kraken
+Gargantuan monstrosity (titan), chaotic evil
+Hit Points: 472 (27d20+189) 
+Armor Class: 18 (Natural Armor) 
+Speed: 20 ft., swim 60 ft. 
+Challenge Rating: 23 (50,000 XP)
+
+Lamia
+Large monstrosity, chaotic evil
+Hit Points: 97 (13d10+26) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Lemure
+Medium fiend (devil), lawful evil
+Hit Points: 13 (3d8) 
+Armor Class: 7 
+Speed: 15 ft. 
+Challenge Rating: 0 (10 XP)
+
+Lich
+Medium undead, any evil alignment
+Hit Points: 135 (18d8+54) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 21 (33,000 XP)
+
+Lion
+Large beast, unaligned
+Hit Points: 26 (4d10+4) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 1 (200 XP)
+
+Lizard
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 10 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Lizardfolk
+Medium humanoid (lizardfolk), neutral
+Hit Points: 22 (4d8+4) 
+Armor Class: 15 (Natural Armor, Shield) 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Mage
+Medium humanoid (any race), any alignment
+Hit Points: 40 (9d8) 
+Armor Class: 12 (15 With Mage Armor) 
+Speed: 30 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Magma Mephit
+Small elemental, neutral evil
+Hit Points: 22 (5d6+5) 
+Armor Class: 11 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Magmin
+Small elemental, chaotic neutral
+Hit Points: 9 (2d6+2) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Mammoth
+Huge beast, unaligned
+Hit Points: 126 (11d12+55) 
+Armor Class: 13 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Manticore
+Large monstrosity, lawful evil
+Hit Points: 68 (8d10+24) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., fly 50 ft. 
+Challenge Rating: 3 (700 XP)
+
+Marilith
+Large fiend (demon), chaotic evil
+Hit Points: 189 (18d10+90) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Mastiff
+Medium beast, unaligned
+Hit Points: 5 (1d8+1) 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Medusa
+Medium monstrosity, lawful evil
+Hit Points: 127 (17d8+51) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Merfolk
+Medium humanoid (merfolk), neutral
+Hit Points: 11 (2d8+2) 
+Armor Class: 11 
+Speed: 10 ft., swim 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Merrow
+Large monstrosity, chaotic evil
+Hit Points: 45 (6d10+12) 
+Armor Class: 13 (Natural Armor) 
+Speed: 10 ft., swim 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Mimic
+Medium monstrosity (shapechanger), neutral
+Hit Points: 58 (9d8+18) 
