@@ -1682,3 +1682,259 @@ Speed: 20 ft., fly 120 ft.
 Challenge Rating: 11 (7,200 XP)
 
 Roper
+Large monstrosity, neutral evil
+Hit Points: 93 (11d10+33) 
+Armor Class: 20 (Natural Armor) 
+Speed: 10 ft., climb 10 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Rug of Smothering
+Large construct, unaligned
+Hit Points: 33 (6d10) 
+Armor Class: 12 
+Speed: 10 ft. 
+Challenge Rating: 2 (450 XP)
+
+Rust Monster
+Medium monstrosity, unaligned
+Hit Points: 27 (5d8+5) 
+Armor Class: 14 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Saber-Toothed Tiger
+Large beast, unaligned
+Hit Points: 52 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Sahuagin
+Medium humanoid (sahuagin), lawful evil
+Hit Points: 22 (4d8+4) 
+Armor Class: 12 (Natural Armor) 
+Speed: 30 ft., swim 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Salamander
+Large elemental, neutral evil
+Hit Points: 90 (12d10+24) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Satyr
+Medium fey, chaotic neutral
+Hit Points: 31 (7d8) 
+Armor Class: 14 (Leather Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Scorpion
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 11 (Natural Armor) 
+Speed: 10 ft. 
+Challenge Rating: 0 (10 XP)
+
+Scout
+Medium humanoid (any race), any alignment
+Hit Points: 16 (3d8+3) 
+Armor Class: 13 (Leather Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Sea Hag
+Medium fey, chaotic evil
+Hit Points: 52 (7d8+21) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., swim 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Sea Horse
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 11 
+Speed: Swim 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Shadow
+Medium undead, chaotic evil
+Hit Points: 16 (3d8+3) 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Shambling Mound
+Large plant, unaligned
+Hit Points: 136 (16d10+48) 
+Armor Class: 15 (Natural Armor) 
+Speed: 20 ft., swim 20 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Shield Guardian
+Large construct, unaligned
+Hit Points: 142 (15d10+60) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Shrieker
+Medium plant, unaligned
+Hit Points: 13 (3d8) 
+Armor Class: 5 
+Speed: 0 ft. 
+Challenge Rating: 0 (10 XP)
+
+Silver Dragon Wyrmling
+Medium dragon, lawful good
+Hit Points: 45 (6d8+18) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 2 (450 XP)
+
+Skeleton
+Medium undead, lawful evil
+Hit Points: 13 (2d8+4) 
+Armor Class: 13 (Armor Scraps) 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Solar
+Large celestial, lawful good
+Hit Points: 243 (18d10+144) 
+Armor Class: 21 (Natural Armor) 
+Speed: 50 ft., fly 150 ft. 
+Challenge Rating: 21 (33,000 XP)
+
+Specter
+Medium undead, chaotic evil
+Hit Points: 22 (5d8) 
+Armor Class: 12 
+Speed: 0 ft., fly 50 ft. (hover) 
+Challenge Rating: 1 (200 XP)
+
+Spider
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 12 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Spirit Naga
+Large monstrosity, chaotic evil
+Hit Points: 75 (10d10+20) 
+Armor Class: 15 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Sprite
+Tiny fey, neutral good
+Hit Points: 2 (1d4) 
+Armor Class: 15 (Leather Armor) 
+Speed: 10 ft., fly 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Spy
+Medium humanoid (any race), any alignment
+Hit Points: 27 (6d8) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Steam Mephit
+Small elemental, neutral evil
+Hit Points: 21 (6d6) 
+Armor Class: 10 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Stirge
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 14 (Natural Armor) 
+Speed: 10 ft., fly 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Stone Giant
+Huge giant, neutral
+Hit Points: 126 (11d12+55) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Stone Golem
+Large construct, unaligned
+Hit Points: 178 (17d10+85) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Storm Giant
+Huge giant, chaotic good
+Hit Points: 230 (20d12+100) 
+Armor Class: 16 (Scale Mail) 
+Speed: 50 ft., swim 50 ft. 
+Challenge Rating: 13 (10,000 XP)
+
+Succubus
+Medium fiend (shapechanger), neutral evil
+Hit Points: 66 (12d8 + 12) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Succubus (Incubus)
+Medium fiend (shapechanger), neutral evil
+Hit Points: 66 (12d8+12) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Swarm of Bats
+Medium swarm of tiny beasts, unaligned
+Hit Points: 22 (5d8) 
+Armor Class: 12 
+Speed: 0 ft., fly 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Swarm of Beetles
+Medium swarm of tiny beasts, unaligned
+Hit Points: 22 (5d8) 
+Armor Class: 12 (Natural Armor) 
+Speed: 20 ft., burrow 5 ft., climb 20 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Swarm of Centipedes
+Medium swarm of tiny beasts, unaligned
+Hit Points: 22 (5d8) 
+Armor Class: 12 (Natural Armor) 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Swarm of Insects
+Medium swarm of tiny beasts, unaligned
+Hit Points: 22 (5d8) 
+Armor Class: 12 (Natural Armor) 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Swarm of Poisonous Snakes
+Medium swarm of tiny beasts, unaligned
+Hit Points: 36 (8d8) 
+Armor Class: 14 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Swarm of Quippers
+Medium swarm of tiny beasts, unaligned
+Hit Points: 28 (8d8-8) 
+Armor Class: 13 
+Speed: 0 ft., swim 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Swarm of Rats
+Medium swarm of tiny beasts, unaligned
+Hit Points: 24 (7d8-7) 
+Armor Class: 10 
+Speed: 30 ft. 
