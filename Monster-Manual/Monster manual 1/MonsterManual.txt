@@ -2219,3 +2219,52 @@ Hit Points: 142 (15d10+60)
 Armor Class: 18 (Natural Armor) 
 Speed: 40 ft., fly 80 ft., swim 40 ft. 
 Challenge Rating: 8 (3,900 XP)
+
+Young Copper Dragon
+Large dragon, chaotic good
+Hit Points: 119 (14d10+42) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Young Gold Dragon
+Large dragon, lawful good
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Young Green Dragon
+Large dragon, lawful evil
+Hit Points: 136 (16d10+48) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Young Red Dragon
+Large dragon, chaotic evil
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Young Silver Dragon
+Large dragon, lawful good
+Hit Points: 168 (16d10+80) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Young White Dragon
+Large dragon, chaotic evil
+Hit Points: 133 (14d10+56) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Zombie
+Medium undead, neutral evil
+Hit Points: 22 (3d8+9) 
+Armor Class: 8 
+Speed: 20 ft. 
+Challenge Rating: 1/4 (50 XP)
