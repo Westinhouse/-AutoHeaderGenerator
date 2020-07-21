@@ -23,4 +23,12 @@ namespace Regex_1
             {
 
                 if (monsterManual[i] == "")
-      
+                {
+                    monsterNames.Add(monsterManual[i + 1]);
+                }
+
+                if (monsterManual[i].Contains("Speed") && monsterManual[i].Contains("fly"))
+                {
+                    CanFly.Add(true);
+                }
+                else if (monsterManual[i].Con
