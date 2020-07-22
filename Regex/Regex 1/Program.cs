@@ -40,4 +40,15 @@ namespace Regex_1
                 {
                     IsTenDiceOrMore.Add(true);
                 }
-                else if (Regex.IsMatch(mons
+                else if (Regex.IsMatch(monsterManual[i], @"Hit Points"))
+                {
+                    IsTenDiceOrMore.Add(false);
+                }
+
+            }
+
+            Console.WriteLine("Monsters in the manual are:");
+
+            for (int i = 0; i < monsterNames.Count; i++)
+            {
+                C
