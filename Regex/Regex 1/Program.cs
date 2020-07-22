@@ -31,4 +31,13 @@ namespace Regex_1
                 {
                     CanFly.Add(true);
                 }
-                else if (monsterManual[i].Con
+                else if (monsterManual[i].Contains("Speed"))
+                {
+                    CanFly.Add(false);
+                }
+
+                if (Regex.IsMatch(monsterManual[i], @"\d{2}d"))
+                {
+                    IsTenDiceOrMore.Add(true);
+                }
+                else if (Regex.IsMatch(mons
