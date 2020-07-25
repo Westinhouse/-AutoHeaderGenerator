@@ -51,4 +51,8 @@ namespace Regex_1
 
             for (int i = 0; i < monsterNames.Count; i++)
             {
-                C
+                Console.WriteLine($"{monsterNames[i]} \n- Can fly: {CanFly[i]} \n- 10+ dice rolls: {IsTenDiceOrMore[i]}");
+            }
+        }
+    }
+}
