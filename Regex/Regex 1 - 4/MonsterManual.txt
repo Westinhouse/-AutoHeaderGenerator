@@ -1,0 +1,9 @@
+Aboleth
+Large aberration, lawful evil
+Hit Points: 135 (18d10+36) 
+Armor Class: 17 (Natural Armor) 
+Speed: 10 ft., swim 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Acolyte
+M
