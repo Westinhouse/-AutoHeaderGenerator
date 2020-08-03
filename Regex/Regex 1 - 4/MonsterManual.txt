@@ -16,4 +16,17 @@ Adult Black Dragon
 Huge dragon, chaotic evil
 Hit Points: 195 (17d12+85) 
 Armor Class: 19 (Natural Armor) 
-Speed: 40 ft., fly 80 ft., swim 40 ft.
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Adult Blue Dragon
+Huge dragon, lawful evil
+Hit Points: 225 (18d12+108) 
+Armor Class: 19 
+Speed: 40 ft., burrow 30 ft., fly 80 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Adult Brass Dragon
+Huge dragon, chaotic good
+Hit Points: 172 (15d12+75) 
+Armor
