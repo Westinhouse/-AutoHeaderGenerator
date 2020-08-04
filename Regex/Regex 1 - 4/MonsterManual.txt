@@ -29,4 +29,15 @@ Challenge Rating: 16 (15,000 XP)
 Adult Brass Dragon
 Huge dragon, chaotic good
 Hit Points: 172 (15d12+75) 
-Armor
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 13 (10,000 XP)
+
+Adult Bronze Dragon
+Huge dragon, lawful good
+Hit Points: 212 (17d12+102) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 15 (13,000 XP)
+
+Adult C
