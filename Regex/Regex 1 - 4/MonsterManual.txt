@@ -50,4 +50,13 @@ Challenge Rating: 14 (11,500 XP)
 Adult Gold Dragon
 Huge dragon, lawful good
 Hit Points: 256 (19d12+133) 
-Armor Cla
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 17 (18,000 XP)
+
+Adult Green Dragon
+Huge dragon, lawful evil
+Hit Points: 207 (18d12+90) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 
