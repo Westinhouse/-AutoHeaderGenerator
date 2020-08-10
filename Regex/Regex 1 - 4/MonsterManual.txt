@@ -106,4 +106,15 @@ Challenge Rating: 23 (50,000 XP)
 Ancient Brass Dragon
 Gargantuan dragon, chaotic good
 Hit Points: 297 (17d20+119) 
-Armor Class: 20 (Natura
+Armor Class: 20 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 20 (25,000 XP)
+
+Ancient Bronze Dragon
+Gargantuan dragon, lawful good
+Hit Points: 444 (24d20+192) 
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 22 (41,000 XP)
+
+Ancient Copper Dragon
