@@ -148,4 +148,15 @@ Challenge Rating: 24 (62,000 XP)
 Ancient Silver Dragon
 Gargantuan dragon, lawful good
 Hit Points: 487 (25d20+225) 
-Armor Class: 22 (Natural A
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., fly 80 ft. 
+Challenge Rating: 23 (50,000 XP)
+
+Ancient White Dragon
+Gargantuan dragon, chaotic evil
+Hit Points: 333 (18d20+144) 
+Armor Class: 20 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 20 (25,000 XP)
+
+Androsphinx
