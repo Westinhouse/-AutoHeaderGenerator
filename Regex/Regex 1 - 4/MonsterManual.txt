@@ -185,4 +185,16 @@ Medium beast, unaligned
 Hit Points: 19 (3d8+6) 
 Armor Class: 12 
 Speed: 30 ft., climb 30 ft. 
-Challenge Rating: 1/2 (100 X
+Challenge Rating: 1/2 (100 XP)
+
+Archmage
+Medium humanoid (any race), any alignment
+Hit Points: 99 (18d8+18) 
+Armor Class: 12 (15 With Mage Armor) 
+Speed: 30 ft. 
+Challenge Rating: 12 (8,400 XP)
+
+Assassin
+Medium humanoid (any race), any non-good alignment
+Hit Points: 78 (12d8+24) 
+Armor Class:
