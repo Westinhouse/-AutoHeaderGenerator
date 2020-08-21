@@ -197,4 +197,18 @@ Challenge Rating: 12 (8,400 XP)
 Assassin
 Medium humanoid (any race), any non-good alignment
 Hit Points: 78 (12d8+24) 
-Armor Class:
+Armor Class: 15 (Studded Leather) 
+Speed: 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Awakened Shrub
+Small plant, unaligned
+Hit Points: 10 (3d6) 
+Armor Class: 9 
+Speed: 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Awakened Tree
+Huge plant, unaligned
+Hit Points: 59 (7d12+14) 
+Armor Class: 13 (Natural Armor) 
