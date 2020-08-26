@@ -265,4 +265,15 @@ Speed: 30 ft.
 Challenge Rating: 2 (450 XP)
 
 Barbed Devil
-Me
+Medium fiend (devil), lawful evil
+Hit Points: 110 (13d8+52) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Basilisk
+Medium monstrosity, unaligned
+Hit Points: 52 (8d8+16) 
+Armor Class: 15 (Natural Armor) 
+Speed: 20 ft. 
+Challenge Rating: 3 (700 
