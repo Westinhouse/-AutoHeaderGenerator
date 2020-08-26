@@ -252,4 +252,17 @@ Challenge Rating: 19 (22,000 XP)
 
 Bandit
 Medium humanoid (any race), any non-lawful alignment
-Hit Points: 11
+Hit Points: 11 (2d8+2) 
+Armor Class: 12 (Leather Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Bandit Captain
+Medium humanoid (any race), any non-lawful alignment
+Hit Points: 65 (10d8+20) 
+Armor Class: 15 (Studded Leather) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Barbed Devil
+Me
