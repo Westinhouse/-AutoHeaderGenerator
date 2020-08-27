@@ -276,4 +276,18 @@ Medium monstrosity, unaligned
 Hit Points: 52 (8d8+16) 
 Armor Class: 15 (Natural Armor) 
 Speed: 20 ft. 
-Challenge Rating: 3 (700 
+Challenge Rating: 3 (700 XP)
+
+Bat
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 12 
+Speed: 5 ft., fly 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Bearded Devil
+Medium fiend (devil), lawful evil
+Hit Points: 52 (8d8+16) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 3 (700
