@@ -303,4 +303,18 @@ Berserker
 Medium humanoid (any race), any chaotic alignment
 Hit Points: 67 (9d8+27) 
 Armor Class: 13 (Hide Armor) 
-Speed: 30
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Black Bear
+Medium beast, unaligned
+Hit Points: 19 (3d8+6) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft., climb 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Black Dragon Wyrmling
+Medium dragon, chaotic evil
+Hit Points: 33 (6d8+6) 
+Armor Class: 17 (Natural Armor) 
+S
