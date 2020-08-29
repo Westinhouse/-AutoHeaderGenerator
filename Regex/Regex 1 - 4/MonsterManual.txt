@@ -317,4 +317,19 @@ Black Dragon Wyrmling
 Medium dragon, chaotic evil
 Hit Points: 33 (6d8+6) 
 Armor Class: 17 (Natural Armor) 
-S
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Black Pudding
+Large ooze, unaligned
+Hit Points: 85 (10d10+30) 
+Armor Class: 7 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Blink Dog
+Medium fey, lawful good
+Hit Points: 22 (4d8+4) 
+Armor Class: 13 
+Speed: 40 ft. 
+Chal
