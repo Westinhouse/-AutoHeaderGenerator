@@ -332,4 +332,17 @@ Medium fey, lawful good
 Hit Points: 22 (4d8+4) 
 Armor Class: 13 
 Speed: 40 ft. 
-Chal
+Challenge Rating: 1/4 (50 XP)
+
+Blood Hawk
+Small beast, unaligned
+Hit Points: 7 (2d6) 
+Armor Class: 12 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Blue Dragon Wyrmling
+Medium dragon, lawful evil
+Hit Points: 52 (8d8+16) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 f
