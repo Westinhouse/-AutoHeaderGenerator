@@ -357,4 +357,14 @@ Challenge Rating: 1/4 (50 XP)
 
 Bone Devil
 Large fiend (devil), lawful evil
-Hit Points: 142 
+Hit Points: 142 (15d10+60) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 40 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Brass Dragon Wyrmling
+Medium dragon, chaotic good
+Hit Points: 16 (3d8+3) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., burrow 15 ft., fly 60 ft. 
+Challenge Rating: 1 (200 XP)
