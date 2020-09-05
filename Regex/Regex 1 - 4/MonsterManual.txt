@@ -393,4 +393,19 @@ Challenge Rating: 1 (200 XP)
 Bulette
 Large monstrosity, unaligned
 Hit Points: 94 (9d10+45) 
-Armor Class:
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Camel
+Large beast, unaligned
+Hit Points: 15 (2d10+4) 
+Armor Class: 9 
+Speed: 50 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Cat
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 12 
+Speed: 40 ft., clim
