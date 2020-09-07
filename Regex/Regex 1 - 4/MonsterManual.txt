@@ -435,4 +435,17 @@ Challenge Rating: 6 (2,300 XP)
 Chuul
 Large aberration, chaotic evil
 Hit Points: 93 (11d10+33) 
-Armor Class: 16 (Natu
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Clay Golem
+Large construct, unaligned
+Hit Points: 133 (14d10+56) 
+Armor Class: 14 (Natural Armor) 
+Speed: 20 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Cloaker
+Large aberration, chaotic neutral
+Hit Points: 78 (12d1
