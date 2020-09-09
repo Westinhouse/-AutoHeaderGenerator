@@ -489,4 +489,18 @@ Speed: 30 ft., climb 30 ft., fly 60 ft.
 Challenge Rating: 1 (200 XP)
 
 Couatl
-Medium celestial, la
+Medium celestial, lawful good
+Hit Points: 97 (13d8+39) 
+Armor Class: 19 (Natural Armor) 
+Speed: 30 ft., fly 90 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Crab
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 11 (Natural Armor) 
+Speed: 20 ft., swim 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Crocodile
+Large beast, un
