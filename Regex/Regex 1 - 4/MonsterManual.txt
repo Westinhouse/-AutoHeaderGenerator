@@ -503,4 +503,17 @@ Speed: 20 ft., swim 20 ft.
 Challenge Rating: 0 (10 XP)
 
 Crocodile
-Large beast, un
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 12 (Natural Armor) 
+Speed: 20 ft., swim 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Cult Fanatic
+Medium humanoid (any race), any non-good alignment
+Hit Points: 33 (6d8+6) 
+Armor Class: 13 (Leather Armor) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Cultist
