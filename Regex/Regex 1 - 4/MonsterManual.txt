@@ -528,4 +528,17 @@ Small monstrosity, unaligned
 Hit Points: 22 (5d6+5) 
 Armor Class: 11 
 Speed: 10 ft., fly 30 ft. 
-Challenge
+Challenge Rating: 1/2 (100 XP)
+
+Death Dog
+Medium monstrosity, neutral evil
+Hit Points: 39 (6d8+12) 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Deep Gnome (Svirfneblin)
+Small humanoid (gnome), neutral good
+Hit Points: 16 (3d6 + 6) 
+Armor Class: 15 (chain shirt) 
+Speed: 20 ft
