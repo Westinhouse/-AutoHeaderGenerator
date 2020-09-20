@@ -611,4 +611,16 @@ Drider
 Large monstrosity, chaotic evil
 Hit Points: 123 (13d10+52) 
 Armor Class: 19 (Natural Armor) 
-Sp
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Drow
+Medium humanoid (elf), neutral evil
+Hit Points: 13 (3d8) 
+Armor Class: 15 (Chain Shirt) 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Druid
+Medium humanoid (any race), any alignment
+Hit Points: 27 (5d8+5) 
