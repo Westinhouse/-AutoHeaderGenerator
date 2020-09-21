@@ -638,4 +638,19 @@ Challenge Rating: 1 (200 XP)
 Duergar
 Medium humanoid (dwarf), lawful evil
 Hit Points: 26 (4d8+4) 
-Armor Class: 1
+Armor Class: 16 (Scale Mail, Shield) 
+Speed: 25 ft. 
+Challenge Rating: 1 (200 XP)
+
+Dust Mephit
+Small elemental, neutral evil
+Hit Points: 17 (5d6) 
+Armor Class: 12 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Eagle
+Small beast, unaligned
+Hit Points: 3 (1d6) 
+Armor Class: 12 
+Speed: 10 ft., fly 60 f
