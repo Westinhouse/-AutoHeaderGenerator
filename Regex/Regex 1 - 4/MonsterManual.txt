@@ -624,3 +624,18 @@ Challenge Rating: 1/4 (50 XP)
 Druid
 Medium humanoid (any race), any alignment
 Hit Points: 27 (5d8+5) 
+Armor Class: 11 (16 With Barkskin) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Dryad
+Medium fey, neutral
+Hit Points: 22 (5d8) 
+Armor Class: 11 (16 With Barkskin) 
+Speed: 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Duergar
+Medium humanoid (dwarf), lawful evil
+Hit Points: 26 (4d8+4) 
+Armor Class: 1
