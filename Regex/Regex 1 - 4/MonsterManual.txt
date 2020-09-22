@@ -666,4 +666,19 @@ Challenge Rating: 5 (1,800 XP)
 Efreeti
 Large elemental, lawful evil
 Hit Points: 200 (16d10+112) 
-Armor Class: 17 (N
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., fly 60 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Elephant
+Huge beast, unaligned
+Hit Points: 76 (8d12+24) 
+Armor Class: 12 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Elk
+Large beast, unaligned
+Hit Points: 13 (2d10+2) 
+Armor Class: 10 
+Spee
