@@ -653,4 +653,17 @@ Eagle
 Small beast, unaligned
 Hit Points: 3 (1d6) 
 Armor Class: 12 
-Speed: 10 ft., fly 60 f
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 0 (10 XP)
+
+Earth Elemental
+Large elemental, neutral
+Hit Points: 126 (12d10+60) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., burrow 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Efreeti
+Large elemental, lawful evil
+Hit Points: 200 (16d10+112) 
+Armor Class: 17 (N
