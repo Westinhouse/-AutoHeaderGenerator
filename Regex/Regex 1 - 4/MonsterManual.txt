@@ -681,4 +681,17 @@ Elk
 Large beast, unaligned
 Hit Points: 13 (2d10+2) 
 Armor Class: 10 
-Spee
+Speed: 50 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Erinyes
+Medium fiend (devil), lawful evil
+Hit Points: 153 (18d8+72) 
+Armor Class: 18 (Plate) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 12 (8,400 XP)
+
+Ettercap
+Medium monstrosity, neutral evil
+Hit Points: 44 (8d8+8) 
+Arm
