@@ -694,4 +694,20 @@ Challenge Rating: 12 (8,400 XP)
 Ettercap
 Medium monstrosity, neutral evil
 Hit Points: 44 (8d8+8) 
-Arm
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Ettin
+Large giant, chaotic evil
+Hit Points: 85 (10d10+30) 
+Armor Class: 12 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Fire Elemental
+Large elemental, neutral
+Hit Points: 102 (12d10+36) 
+Armor Class: 13 
+Speed: 50 ft. 
+Challenge
