@@ -737,4 +737,19 @@ Flying Sword
 Small construct, unaligned
 Hit Points: 17 (5d6) 
 Armor Class: 17 (Natural Armor) 
-Speed: 0 ft., fly 50 ft. It can
+Speed: 0 ft., fly 50 ft. It can hover. 
+Challenge Rating: 1/4 (50 XP)
+
+Frog
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 11 
+Speed: 20 ft., swim 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Frost Giant
+Huge giant, neutral evil
+Hit Points: 138 (12d12+60) 
+Armor Class: 15 (Patchwork Armor) 
+Speed: 40 ft. 
+Challenge Rating: 8 (3,900 
