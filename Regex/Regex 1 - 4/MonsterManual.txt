@@ -768,4 +768,19 @@ Armor Class: 6
 Speed: 15 ft. 
 Challenge Rating: 2 (450 XP)
 
-Gha
+Ghast
+Medium undead, chaotic evil
+Hit Points: 36 (8d8) 
+Armor Class: 13 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Ghost
+Medium undead, any alignment
+Hit Points: 45 (10d8) 
+Armor Class: 11 
+Speed: 0 ft., fly 40 ft. It can hover. 
+Challenge Rating: 4 (1,100 XP)
+
+Ghoul
+Medium un
