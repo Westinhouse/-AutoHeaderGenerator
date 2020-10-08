@@ -798,4 +798,19 @@ Challenge Rating: 7 (2,900 XP)
 
 Giant Badger
 Medium beast, unaligned
-Hit Poi
+Hit Points: 13 (2d8+4) 
+Armor Class: 10 
+Speed: 30 ft., burrow 10 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Bat
+Large beast, unaligned
+Hit Points: 22 (4d10) 
+Armor Class: 13 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Boar
+Large beast, unaligned
+Hit Points: 42 (5d10+15) 
+Armor Cl
