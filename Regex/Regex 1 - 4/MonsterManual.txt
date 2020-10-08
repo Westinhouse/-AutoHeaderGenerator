@@ -783,4 +783,19 @@ Speed: 0 ft., fly 40 ft. It can hover.
 Challenge Rating: 4 (1,100 XP)
 
 Ghoul
-Medium un
+Medium undead, chaotic evil
+Hit Points: 22 (5d8) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Ape
+Huge beast, unaligned
+Hit Points: 157 (15d12+60) 
+Armor Class: 12 
+Speed: 40 ft., climb 40 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Giant Badger
+Medium beast, unaligned
+Hit Poi
