@@ -827,4 +827,17 @@ Challenge Rating: 1/4 (50 XP)
 Giant Constrictor Snake
 Huge beast, unaligned
 Hit Points: 60 (8d12+8) 
-Armor Cl
+Armor Class: 12 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Giant Crab
+Medium beast, unaligned
+Hit Points: 13 (3d8) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Giant Crocodile
+Huge beast, unaligned
+Hit Points:
