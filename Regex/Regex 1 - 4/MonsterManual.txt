@@ -840,4 +840,17 @@ Challenge Rating: 1/8 (25 XP)
 
 Giant Crocodile
 Huge beast, unaligned
-Hit Points:
+Hit Points: 85 (9d12+27) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., swim 50 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Giant Eagle
+Large beast, neutral good
+Hit Points: 26 (4d10+4) 
+Armor Class: 13 
+Speed: 10 ft., fly 80 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Elk
+Huge beast, unalign
