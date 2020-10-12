@@ -867,4 +867,19 @@ Speed: 30 ft.
 Challenge Rating: 0 (10 XP)
 
 Giant Frog
-Medium beast, unaligne
+Medium beast, unaligned
+Hit Points: 18 (4d8) 
+Armor Class: 11 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Goat
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Giant Hyena
+Large beast, unaligned
+Hi
