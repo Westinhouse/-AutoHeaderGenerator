@@ -853,4 +853,18 @@ Speed: 10 ft., fly 80 ft.
 Challenge Rating: 1 (200 XP)
 
 Giant Elk
-Huge beast, unalign
+Huge beast, unaligned
+Hit Points: 42 (5d12+10) 
+Armor Class: 14 (Natural Armor) 
+Speed: 60 ft. 
+Challenge Rating: 2 (450 XP)
+
+Giant Fire Beetle
+Small beast, unaligned
+Hit Points: 4 (1d6+1) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Giant Frog
+Medium beast, unaligne
