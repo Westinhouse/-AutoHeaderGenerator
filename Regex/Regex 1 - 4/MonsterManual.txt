@@ -882,4 +882,18 @@ Challenge Rating: 1/2 (100 XP)
 
 Giant Hyena
 Large beast, unaligned
-Hi
+Hit Points: 45 (6d10+12) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Lizard
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 12 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Octopus
+Large beast, unaligned
+Hit Points
