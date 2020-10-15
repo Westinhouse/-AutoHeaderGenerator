@@ -909,4 +909,18 @@ Speed: 5 ft., fly 60 ft.
 Challenge Rating: 1/4 (50 XP)
 
 Giant Poisonous Snake
-Medium beast, u
+Medium beast, unaligned
+Hit Points: 11 (2d8+2) 
+Armor Class: 14 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Rat
+Small beast, unaligned
+Hit Points: 7 (2d6) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Giant Scorpion
+Large bea
