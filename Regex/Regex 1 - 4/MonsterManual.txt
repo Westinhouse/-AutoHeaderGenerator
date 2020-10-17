@@ -938,4 +938,17 @@ Challenge Rating: 1/2 (100 XP)
 
 Giant Shark
 Huge beast, unaligned
-Hit 
+Hit Points: 126 (11d12+55) 
+Armor Class: 13 (Natural Armor) 
+Speed: Swim 50 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Giant Spider
+Large beast, unaligned
+Hit Points: 26 (4d10+4) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Toad
+Large beast, unaligned
