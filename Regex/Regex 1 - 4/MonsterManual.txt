@@ -952,3 +952,18 @@ Challenge Rating: 1 (200 XP)
 
 Giant Toad
 Large beast, unaligned
+Hit Points: 39 (6d10+6) 
+Armor Class: 11 
+Speed: 20 ft., swim 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Vulture
+Large beast, neutral evil
+Hit Points: 22 (3d10+6) 
+Armor Class: 10 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Wasp
+Medium beast, unaligned
+Hit Poin
