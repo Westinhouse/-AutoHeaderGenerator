@@ -981,4 +981,18 @@ Challenge Rating: 1/8 (25 XP)
 Giant Wolf Spider
 Medium beast, unaligned
 Hit Points: 11 (2d8+2) 
-Armor C
+Armor Class: 13 
+Speed: 40 ft., climb 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Gibbering Mouther
+Medium aberration, neutral
+Hit Points: 67 (9d8+27) 
+Armor Class: 9 
+Speed: 10 ft., swim 10 ft. 
+Challenge Rating: 2 (450 XP)
+
+Glabrezu
+Large fiend (demon), chaotic evil
+Hit Points: 157 (15d10+75) 
+Armor Clas
