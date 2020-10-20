@@ -995,4 +995,16 @@ Challenge Rating: 2 (450 XP)
 Glabrezu
 Large fiend (demon), chaotic evil
 Hit Points: 157 (15d10+75) 
-Armor Clas
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Gladiator
+Medium humanoid (any race), any alignment
+Hit Points: 112 (15d8+45) 
+Armor Class: 16 (Studded Leather, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Gnoll
+Medium humanoid (gnoll), chaotic ev
