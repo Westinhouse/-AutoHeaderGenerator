@@ -1046,4 +1046,17 @@ Medium ooze, unaligned
 Hit Points: 22 (3d8+9) 
 Armor Class: 8 
 Speed: 10 ft., climb 10 ft. 
-Challenge Ra
+Challenge Rating: 1/2 (100 XP)
+
+Green Dragon Wyrmling
+Medium dragon, lawful evil
+Hit Points: 38 (7d8+7) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Green Hag
+Medium fey, neutral evil
+Hit Points: 82 (11d8+33) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 f
