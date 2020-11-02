@@ -1073,4 +1073,18 @@ Griffon
 Large monstrosity, unaligned
 Hit Points: 59 (7d10+21) 
 Armor Class: 12 
-Speed: 30 ft., fly 80 
+Speed: 30 ft., fly 80 ft. 
+Challenge Rating: 2 (450 XP)
+
+Grimlock
+Medium humanoid (grimlock), neutral evil
+Hit Points: 11 (2d8+2) 
+Armor Class: 11 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Guard
+Medium humanoid (any race), any alignment
+Hit Points: 11 (2d8+2) 
+Armor Class: 16 (Chain Shirt, Shield) 
+Sp
