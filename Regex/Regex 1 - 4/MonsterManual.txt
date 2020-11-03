@@ -1087,4 +1087,16 @@ Guard
 Medium humanoid (any race), any alignment
 Hit Points: 11 (2d8+2) 
 Armor Class: 16 (Chain Shirt, Shield) 
-Sp
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Guardian Naga
+Large monstrosity, lawful good
+Hit Points: 127 (15d10+45) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Gynosphinx
+Large monstrosity, lawful neutral
+Hit Points: 136 (1
