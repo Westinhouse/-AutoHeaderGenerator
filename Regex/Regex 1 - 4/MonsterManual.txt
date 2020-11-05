@@ -1112,4 +1112,19 @@ Speed: 30 ft.
 Challenge Rating: 5 (1,800 XP)
 
 Harpy
-Medium monstrosity, chaotic e
+Medium monstrosity, chaotic evil
+Hit Points: 38 (7d8+7) 
+Armor Class: 11 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Hawk
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 13 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 0 (10 XP)
+
+Hell Hound
+Medium fiend, lawful evil
+Hit Points: 45 (7d8+14) 
