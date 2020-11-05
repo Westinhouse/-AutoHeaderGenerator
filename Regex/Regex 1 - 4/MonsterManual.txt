@@ -1128,3 +1128,17 @@ Challenge Rating: 0 (10 XP)
 Hell Hound
 Medium fiend, lawful evil
 Hit Points: 45 (7d8+14) 
+Armor Class: 15 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Rating: 3 (700 XP)
+
+Hezrou
+Large fiend (demon), chaotic evil
+Hit Points: 136 (13d10+65) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Hill Giant
+Huge giant, chaotic evil
+Hit Points: 105 (10d12+
