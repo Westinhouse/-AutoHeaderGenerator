@@ -1141,4 +1141,18 @@ Challenge Rating: 8 (3,900 XP)
 
 Hill Giant
 Huge giant, chaotic evil
-Hit Points: 105 (10d12+
+Hit Points: 105 (10d12+40) 
+Armor Class: 13 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Hippogriff
+Large monstrosity, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 11 
+Speed: 40 ft, fly 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Hobgoblin
+Medium humanoid (goblinoid), lawful evil
+Hit Points: 11 (2d
