@@ -1155,4 +1155,17 @@ Challenge Rating: 1 (200 XP)
 
 Hobgoblin
 Medium humanoid (goblinoid), lawful evil
-Hit Points: 11 (2d
+Hit Points: 11 (2d8+2) 
+Armor Class: 18 (Chain Mail, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Homunculus
+Tiny construct, neutral
+Hit Points: 5 (2d4) 
+Armor Class: 13 (Natural Armor) 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 0 (10 XP)
+
+Horned Devil
+Large fiend (devil), lawf
