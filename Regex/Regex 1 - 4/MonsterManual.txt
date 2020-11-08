@@ -1182,4 +1182,17 @@ Speed: Swim 40 ft.
 Challenge Rating: 2 (450 XP)
 
 Hydra
-Huge mon
+Huge monstrosity, unaligned
+Hit Points: 172 (15d12+75) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Hyena
+Medium beast, unaligned
+Hit Points: 5 (1d8+1) 
+Armor Class: 11 
+Speed: 50 ft. 
+Challenge Rating: 0 (10 XP)
+
+Ice Devi
