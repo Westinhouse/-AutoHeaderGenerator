@@ -1195,4 +1195,16 @@ Armor Class: 11
 Speed: 50 ft. 
 Challenge Rating: 0 (10 XP)
 
-Ice Devi
+Ice Devil
+Large fiend (devil), lawful evil
+Hit Points: 180 (19d10+76) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Ice Mephit
+Small elemental, neutral evil
+Hit Points: 21 (6d6) 
+Armor Class: 11 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 X
