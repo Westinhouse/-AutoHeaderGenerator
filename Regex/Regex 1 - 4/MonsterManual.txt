@@ -1207,4 +1207,17 @@ Small elemental, neutral evil
 Hit Points: 21 (6d6) 
 Armor Class: 11 
 Speed: 30 ft., fly 30 ft. 
-Challenge Rating: 1/2 (100 X
+Challenge Rating: 1/2 (100 XP)
+
+Imp
+Tiny fiend (devil, shapechanger), lawful evil
+Hit Points: 10 (3d4+3) 
+Armor Class: 13 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Incubus
+Medium fiend (shapechanger), neutral evil
+Hit Points: 66 (12d8 + 12) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 
