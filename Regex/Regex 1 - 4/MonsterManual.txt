@@ -1274,4 +1274,19 @@ Challenge Rating: 23 (50,000 XP)
 
 Lamia
 Large monstrosity, chaotic evil
-Hit Points: 97
+Hit Points: 97 (13d10+26) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Lemure
+Medium fiend (devil), lawful evil
+Hit Points: 13 (3d8) 
+Armor Class: 7 
+Speed: 15 ft. 
+Challenge Rating: 0 (10 XP)
+
+Lich
+Medium undead, any evil alignment
+Hit Points: 135 (18d8+54) 
+Armor Class: 17 (Natur
