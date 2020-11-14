@@ -1316,4 +1316,18 @@ Challenge Rating: 1/2 (100 XP)
 
 Mage
 Medium humanoid (any race), any alignment
-Hit Points: 40 (9d
+Hit Points: 40 (9d8) 
+Armor Class: 12 (15 With Mage Armor) 
+Speed: 30 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Magma Mephit
+Small elemental, neutral evil
+Hit Points: 22 (5d6+5) 
+Armor Class: 11 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Magmin
+Small elemental, chaotic neutral
+Hit Poin
