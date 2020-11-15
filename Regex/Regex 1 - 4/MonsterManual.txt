@@ -1330,4 +1330,17 @@ Challenge Rating: 1/2 (100 XP)
 
 Magmin
 Small elemental, chaotic neutral
-Hit Poin
+Hit Points: 9 (2d6+2) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Mammoth
+Huge beast, unaligned
+Hit Points: 126 (11d12+55) 
+Armor Class: 13 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Manticore
+Large monstro
