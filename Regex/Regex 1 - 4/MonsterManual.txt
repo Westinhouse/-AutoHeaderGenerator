@@ -1371,4 +1371,18 @@ Speed: 30 ft.
 Challenge Rating: 6 (2,300 XP)
 
 Merfolk
-Medium humanoid (merfolk),
+Medium humanoid (merfolk), neutral
+Hit Points: 11 (2d8+2) 
+Armor Class: 11 
+Speed: 10 ft., swim 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Merrow
+Large monstrosity, chaotic evil
+Hit Points: 45 (6d10+12) 
+Armor Class: 13 (Natural Armor) 
+Speed: 10 ft., swim 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Mimic
+Medi
