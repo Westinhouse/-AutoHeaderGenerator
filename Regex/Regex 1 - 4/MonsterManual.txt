@@ -1385,4 +1385,18 @@ Speed: 10 ft., swim 40 ft.
 Challenge Rating: 2 (450 XP)
 
 Mimic
-Medi
+Medium monstrosity (shapechanger), neutral
+Hit Points: 58 (9d8+18) 
+Armor Class: 12 (Natural Armor) 
+Speed: 15 ft. 
+Challenge Rating: 2 (450 XP)
+
+Minotaur
+Large monstrosity, chaotic evil
+Hit Points: 76 (9d10+27) 
+Armor Class: 14 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 3 (700 XP)
+
+Minotaur Skeleton
+Large undead,
