@@ -1415,4 +1415,16 @@ Challenge Rating: 1/8 (25 XP)
 Mummy
 Medium undead, lawful evil
 Hit Points: 58 (9d8+18) 
-Armor Class: 11
+Armor Class: 11 (Natural Armor) 
+Speed: 20 ft. 
+Challenge Rating: 3 (700 XP)
+
+Mummy Lord
+Medium undead, lawful evil
+Hit Points: 97 (13d8+39) 
+Armor Class: 17 (Natural Armor) 
+Speed: 20 ft. 
+Challenge Rating: 15 (13,000 XP)
+
+Nalfeshnee
+Large fiend (demon)
