@@ -1438,4 +1438,18 @@ Medium fiend, neutral evil
 Hit Points: 112 (15d8+45) 
 Armor Class: 17 (Natural Armor) 
 Speed: 30 ft. 
-Challenge Rating: 
+Challenge Rating: 5 (1,800 XP)
+
+Nightmare
+Large fiend, neutral evil
+Hit Points: 68 (8d10+24) 
+Armor Class: 13 (Natural Armor) 
+Speed: 60 ft., fly 90 ft. 
+Challenge Rating: 3 (700 XP)
+
+Noble
+Medium humanoid (any race), any alignment
+Hit Points: 9 (2d8) 
+Armor Class: 15 (Breastplate) 
+Speed: 30 ft. 
+C
