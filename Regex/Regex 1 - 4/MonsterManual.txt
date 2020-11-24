@@ -1452,4 +1452,18 @@ Medium humanoid (any race), any alignment
 Hit Points: 9 (2d8) 
 Armor Class: 15 (Breastplate) 
 Speed: 30 ft. 
-C
+Challenge Rating: 1/8 (25 XP)
+
+Ochre Jelly
+Large ooze, unaligned
+Hit Points: 45 (6d10+12) 
+Armor Class: 8 
+Speed: 10 ft., climb 10 ft. 
+Challenge Rating: 2 (450 XP)
+
+Octopus
+Small beast, unaligned
+Hit Points: 3 (1d6) 
+Armor Class: 12 
+Speed: 5 ft., swim 30 ft. 
+Chall
