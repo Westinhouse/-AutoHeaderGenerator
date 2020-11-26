@@ -1480,4 +1480,18 @@ Large undead, neutral evil
 Hit Points: 85 (9d10+36) 
 Armor Class: 8 
 Speed: 30 ft. 
-Challenge Rating: 2 (450 X
+Challenge Rating: 2 (450 XP)
+
+Oni
+Large giant, lawful evil
+Hit Points: 110 (13d10+39) 
+Armor Class: 16 (Chain Mail) 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Orc
+Medium humanoid (orc), chaotic evil
+Hit Points: 15 (2d8+6) 
+Armor Class: 13 (Hide Armor) 
+Speed: 30 ft. 
+Challenge R
