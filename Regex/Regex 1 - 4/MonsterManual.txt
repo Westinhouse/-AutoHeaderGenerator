@@ -1494,4 +1494,18 @@ Medium humanoid (orc), chaotic evil
 Hit Points: 15 (2d8+6) 
 Armor Class: 13 (Hide Armor) 
 Speed: 30 ft. 
-Challenge R
+Challenge Rating: 1/2 (100 XP)
+
+Otyugh
+Large aberration, neutral
+Hit Points: 114 (12d10+48) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Owl
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 11 
+Speed: 5 ft., fly 60 ft. 
+Challenge Rating: 
