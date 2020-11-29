@@ -1524,4 +1524,16 @@ Armor Class: 12
 Speed: 50 ft., climb 40 ft. 
 Challenge Rating: 1/4 (50 XP)
 
-Pega
+Pegasus
+Large celestial, chaotic good
+Hit Points: 59 (7d10+21) 
+Armor Class: 12 
+Speed: 60 ft., fly 90 ft. 
+Challenge Rating: 2 (450 XP)
+
+Phase Spider
+Large monstrosity, unaligned
+Hit Points: 32 (5d10+5) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 3 (700 
