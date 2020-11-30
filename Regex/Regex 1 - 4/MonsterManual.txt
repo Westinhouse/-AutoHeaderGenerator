@@ -1549,4 +1549,18 @@ Planetar
 Large celestial, lawful good
 Hit Points: 200 (16d10+112) 
 Armor Class: 19 (Natural Armor) 
-Speed: 40 ft., fly
+Speed: 40 ft., fly 120 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Plesiosaurus
+Large beast, unaligned
+Hit Points: 68 (8d10+24) 
+Armor Class: 13 (Natural Armor) 
+Speed: 20 ft., swim 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Poisonous Snake
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 13 
+Spee
