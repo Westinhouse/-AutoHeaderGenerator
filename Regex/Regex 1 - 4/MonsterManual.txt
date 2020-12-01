@@ -1563,4 +1563,19 @@ Poisonous Snake
 Tiny beast, unaligned
 Hit Points: 2 (1d4) 
 Armor Class: 13 
-Spee
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Polar Bear
+Large beast, unaligned
+Hit Points: 42 (5d10+15) 
+Armor Class: 12 (Natural Armor) 
+Speed: 40 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Pony
+Medium beast, unaligned
+Hit Points: 11 (2d8+2) 
+Armor Class: 10 
+Speed: 40 ft. 
+Challenge R
