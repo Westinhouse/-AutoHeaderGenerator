@@ -1591,4 +1591,17 @@ Pseudodragon
 Tiny dragon, neutral good
 Hit Points: 7 (2d4+2) 
 Armor Class: 13 
-Speed: 
+Speed: 15 ft., fly 60 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Purple Worm
+Gargantuan monstrosity, unaligned
+Hit Points: 247 (15d20+90) 
+Armor Class: 18 (Natural Armor) 
+Speed: 50 ft., burrow 30 ft. 
+Challenge Rating: 15 (13,000 XP)
+
+Quasit
+Tiny fiend (demon), chaotic evil
+Hit Points: 7 (3d4) 
+Armo
