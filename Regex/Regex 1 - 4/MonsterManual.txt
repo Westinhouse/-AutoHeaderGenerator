@@ -1675,4 +1675,17 @@ Roc
 Gargantuan monstrosity, unaligned
 Hit Points: 248 (16d20+80) 
 Armor Class: 15 (Natural Armor) 
-Speed: 2
+Speed: 20 ft., fly 120 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Roper
+Large monstrosity, neutral evil
+Hit Points: 93 (11d10+33) 
+Armor Class: 20 (Natural Armor) 
+Speed: 10 ft., climb 10 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Rug of Smothering
+Large construct, unaligned
+Hit Points: 33 (6d10) 
+Armor Class: 1
