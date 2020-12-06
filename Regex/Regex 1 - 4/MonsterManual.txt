@@ -1688,4 +1688,19 @@ Challenge Rating: 5 (1,800 XP)
 Rug of Smothering
 Large construct, unaligned
 Hit Points: 33 (6d10) 
-Armor Class: 1
+Armor Class: 12 
+Speed: 10 ft. 
+Challenge Rating: 2 (450 XP)
+
+Rust Monster
+Medium monstrosity, unaligned
+Hit Points: 27 (5d8+5) 
+Armor Class: 14 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Saber-Toothed Tiger
+Large beast, unaligned
+Hit Points: 52 
+Armor Class: 12 
+Speed: 40 ft. 
