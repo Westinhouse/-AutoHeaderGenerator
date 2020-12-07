@@ -1704,3 +1704,15 @@ Large beast, unaligned
 Hit Points: 52 
 Armor Class: 12 
 Speed: 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Sahuagin
+Medium humanoid (sahuagin), lawful evil
+Hit Points: 22 (4d8+4) 
+Armor Class: 12 (Natural Armor) 
+Speed: 30 ft., swim 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Salamander
+Large elemental, neutral evil
+H
