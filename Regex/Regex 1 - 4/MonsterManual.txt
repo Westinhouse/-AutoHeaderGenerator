@@ -1772,4 +1772,18 @@ Challenge Rating: 5 (1,800 XP)
 Shield Guardian
 Large construct, unaligned
 Hit Points: 142 (15d10+60) 
-Armor Class: 17 (
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Shrieker
+Medium plant, unaligned
+Hit Points: 13 (3d8) 
+Armor Class: 5 
+Speed: 0 ft. 
+Challenge Rating: 0 (10 XP)
+
+Silver Dragon Wyrmling
+Medium dragon, lawful good
+Hit Points: 45 (6d8+18) 
+Armor Class: 17 (Natural Armo
