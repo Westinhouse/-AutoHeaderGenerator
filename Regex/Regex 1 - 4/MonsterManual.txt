@@ -1786,4 +1786,18 @@ Challenge Rating: 0 (10 XP)
 Silver Dragon Wyrmling
 Medium dragon, lawful good
 Hit Points: 45 (6d8+18) 
-Armor Class: 17 (Natural Armo
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 2 (450 XP)
+
+Skeleton
+Medium undead, lawful evil
+Hit Points: 13 (2d8+4) 
+Armor Class: 13 (Armor Scraps) 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Solar
+Large celestial, lawful good
+Hit Points: 243 (18d10+144) 
+A
