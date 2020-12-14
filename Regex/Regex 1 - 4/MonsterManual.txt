@@ -1812,4 +1812,19 @@ Speed: 0 ft., fly 50 ft. (hover)
 Challenge Rating: 1 (200 XP)
 
 Spider
-Tiny beast, un
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 12 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Spirit Naga
+Large monstrosity, chaotic evil
+Hit Points: 75 (10d10+20) 
+Armor Class: 15 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Sprite
+Tiny fey, neutral good
+Hi
