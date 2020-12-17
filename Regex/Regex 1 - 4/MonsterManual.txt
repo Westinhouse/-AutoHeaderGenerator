@@ -1854,4 +1854,18 @@ Speed: 10 ft., fly 40 ft.
 Challenge Rating: 1/8 (25 XP)
 
 Stone Giant
-Huge giant, neut
+Huge giant, neutral
+Hit Points: 126 (11d12+55) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Stone Golem
+Large construct, unaligned
+Hit Points: 178 (17d10+85) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Storm Giant
+Huge giant
