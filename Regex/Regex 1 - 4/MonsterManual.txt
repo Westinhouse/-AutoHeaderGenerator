@@ -1912,4 +1912,16 @@ Challenge Rating: 1/2 (100 XP)
 Swarm of Insects
 Medium swarm of tiny beasts, unaligned
 Hit Points: 22 (5d8) 
-Armor Class: 12 (Natural Armor)
+Armor Class: 12 (Natural Armor) 
+Speed: 20 ft., climb 20 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Swarm of Poisonous Snakes
+Medium swarm of tiny beasts, unaligned
+Hit Points: 36 (8d8) 
+Armor Class: 14 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Swarm of Quippers
+Medi
