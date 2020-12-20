@@ -1924,4 +1924,15 @@ Speed: 30 ft., swim 30 ft.
 Challenge Rating: 2 (450 XP)
 
 Swarm of Quippers
-Medi
+Medium swarm of tiny beasts, unaligned
+Hit Points: 28 (8d8-8) 
+Armor Class: 13 
+Speed: 0 ft., swim 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Swarm of Rats
+Medium swarm of tiny beasts, unaligned
+Hit Points: 24 (7d8-7) 
+Armor Class: 10 
+Speed: 30 ft. 
+Challenge Rating: 1/4
