@@ -1935,4 +1935,17 @@ Medium swarm of tiny beasts, unaligned
 Hit Points: 24 (7d8-7) 
 Armor Class: 10 
 Speed: 30 ft. 
-Challenge Rating: 1/4
+Challenge Rating: 1/4 (50 XP)
+
+Swarm of Ravens
+Medium swarm of tiny beasts, unaligned
+Hit Points: 24 (7d8-7) 
+Armor Class: 12 
+Speed: 10 ft., fly 50 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Swarm of Spiders
+Medium swarm of tiny beasts, unaligned
+Hit Points: 22 (5d8) 
+Armor Class: 12 (Natural Armor) 
+Speed
