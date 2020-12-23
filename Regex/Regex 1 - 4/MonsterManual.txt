@@ -1973,4 +1973,18 @@ Speed: 30 ft.
 Challenge Rating: 1/2 (100 XP)
 
 Tiger
-Large beast, unalign
+Large beast, unaligned
+Hit Points: 37 (5d10+10) 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Treant
+Huge plant, chaotic good
+Hit Points: 138 (12d12+60) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Tribal Warrior
+Medi
