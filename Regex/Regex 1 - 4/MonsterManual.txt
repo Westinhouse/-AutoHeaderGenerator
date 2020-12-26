@@ -2010,4 +2010,20 @@ Challenge Rating: 5 (1,800 XP)
 Tyrannosaurus Rex
 Huge beast, unaligned
 Hit Points: 136 (13d12+52) 
-Armor Class: 13 (Nat
+Armor Class: 13 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Unicorn
+Large celestial, lawful good
+Hit Points: 67 (9d10+18) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Vampire
+Medium undead (shapechanger), lawful evil
+Hit Points: 144 (17d8+68) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 13 (10
