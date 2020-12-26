@@ -1998,4 +1998,16 @@ Huge beast, unaligned
 Hit Points: 95 (10d12+30) 
 Armor Class: 13 (Natural Armor) 
 Speed: 50 ft. 
-Challenge Ra
+Challenge Rating: 5 (1,800 XP)
+
+Troll
+Large giant, chaotic evil
+Hit Points: 84 (8d10+40) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Tyrannosaurus Rex
+Huge beast, unaligned
+Hit Points: 136 (13d12+52) 
+Armor Class: 13 (Nat
