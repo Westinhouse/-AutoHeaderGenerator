@@ -2026,4 +2026,18 @@ Medium undead (shapechanger), lawful evil
 Hit Points: 144 (17d8+68) 
 Armor Class: 16 (Natural Armor) 
 Speed: 30 ft. 
-Challenge Rating: 13 (10
+Challenge Rating: 13 (10,000 XP)
+
+Vampire Spawn
+Medium undead, neutral evil
+Hit Points: 82 (11d8+33) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Veteran
+Medium humanoid (any race), any alignment
+Hit Points: 58 (9d8+18) 
+Armor Class: 17 (Splint) 
+Speed: 30 ft. 
+Challenge Rati
