@@ -2040,4 +2040,17 @@ Medium humanoid (any race), any alignment
 Hit Points: 58 (9d8+18) 
 Armor Class: 17 (Splint) 
 Speed: 30 ft. 
-Challenge Rati
+Challenge Rating: 3 (700 XP)
+
+Violet Fungus
+Medium plant, unaligned
+Hit Points: 18 (4d8) 
+Armor Class: 5 
+Speed: 5 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Vrock
+Large fiend (demon), chaotic evil
+Hit Points: 104 (11d10+44) 
+Armor Class: 15 (Natural Armor) 
+Speed: 40 
