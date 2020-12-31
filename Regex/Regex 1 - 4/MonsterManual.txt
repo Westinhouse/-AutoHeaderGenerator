@@ -2070,4 +2070,15 @@ Armor Class: 11
 Speed: 60 ft. 
 Challenge Rating: 1/2 (100 XP)
 
-W
+Warhorse Skeleton
+Large undead, lawful evil
+Hit Points: 22 (3d10+6) 
+Armor Class: 13 (Barding Scraps) 
+Speed: 60 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Water Elemental
+Large elemental, neutral
+Hit Points: 114 (12d10+48) 
+Armor Class: 14 (Natural Armor) 
+Speed: 
