@@ -2081,4 +2081,17 @@ Water Elemental
 Large elemental, neutral
 Hit Points: 114 (12d10+48) 
 Armor Class: 14 (Natural Armor) 
-Speed: 
+Speed: 30 ft., swim 90 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Weasel
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 13 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Werebear
+Medium humanoid (human, shapechanger), neutral good
+Hit Points: 135 (18d8+54) 
+Armor Class: 10 (In Humanoid Form, 11 In Bear 
