@@ -2123,4 +2123,17 @@ Werewolf
 Medium humanoid (human, shapechanger), chaotic evil
 Hit Points: 58 (9d8+18) 
 Armor Class: 11 (In Humanoid Form, 12 In Wolf Or Hybrid Form) 
-Speed: 30 ft. (40 ft. in wolf form)
+Speed: 30 ft. (40 ft. in wolf form) 
+Challenge Rating: 3 (700 XP)
+
+White Dragon Wyrmling
+Medium dragon, chaotic evil
+Hit Points: 32 (5d8+10) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Wight
+Medium undead, neutral evil
+Hit Points: 45 (6d8+18) 
+Armor Class: 14 
