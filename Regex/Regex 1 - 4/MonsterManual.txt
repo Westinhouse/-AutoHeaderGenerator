@@ -2116,3 +2116,11 @@ Weretiger
 Medium humanoid (human, shapechanger), neutral
 Hit Points: 120 (16d8+48) 
 Armor Class: 12 
+Speed: 30 ft. (40 ft. in tiger form) 
+Challenge Rating: 4 (1,100 XP)
+
+Werewolf
+Medium humanoid (human, shapechanger), chaotic evil
+Hit Points: 58 (9d8+18) 
+Armor Class: 11 (In Humanoid Form, 12 In Wolf Or Hybrid Form) 
+Speed: 30 ft. (40 ft. in wolf form)
