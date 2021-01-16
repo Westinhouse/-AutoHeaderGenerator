@@ -2162,4 +2162,16 @@ Speed: 40 ft.
 Challenge Rating: 1/4 (50 XP)
 
 Worg
-Large monstrosity, 
+Large monstrosity, neutral evil
+Hit Points: 26 (4d10+4) 
+Armor Class: 13 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Wraith
+Medium undead, neutral evil
+Hit Points: 67 (9d8+27) 
+Armor Class: 13 
+Speed: 0 ft., fly 60 ft. (hover) 
+Challenge Rating: 5 (1,800 XP)
+
