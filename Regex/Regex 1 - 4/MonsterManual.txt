@@ -2198,4 +2198,14 @@ Challenge Rating: 7 (2,900 XP)
 
 Young Blue Dragon
 Large dragon, lawful evil
-Hit Points: 152 (16d10+6
+Hit Points: 152 (16d10+64) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Young Brass Dragon
+Large dragon, chaotic good
+Hit Points: 110 (13d10+39) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow 20 ft., fly 80 ft. 
+Challenge Ratin
