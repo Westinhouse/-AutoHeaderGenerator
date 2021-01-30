@@ -2208,4 +2208,16 @@ Large dragon, chaotic good
 Hit Points: 110 (13d10+39) 
 Armor Class: 17 (Natural Armor) 
 Speed: 40 ft., burrow 20 ft., fly 80 ft. 
-Challenge Ratin
+Challenge Rating: 6 (2,300 XP)
+
+Young Bronze Dragon
+Large dragon, lawful good
+Hit Points: 142 (15d10+60) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Young Copper Dragon
+Large dragon, chaotic good
+Hit Points: 119 (14d10+42) 
+Armor Class: 17
