@@ -2220,4 +2220,13 @@ Challenge Rating: 8 (3,900 XP)
 Young Copper Dragon
 Large dragon, chaotic good
 Hit Points: 119 (14d10+42) 
-Armor Class: 17
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Young Gold Dragon
+Large dragon, lawful good
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Ra
