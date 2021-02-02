@@ -2264,4 +2264,4 @@ Medium undead, neutral evil
 Hit Points: 22 (3d8+9) 
 Armor Class: 8 
 Speed: 20 ft. 
-Challenge Rating: 1/4 (50
+Challenge Rating: 1/4 (50 XP)
