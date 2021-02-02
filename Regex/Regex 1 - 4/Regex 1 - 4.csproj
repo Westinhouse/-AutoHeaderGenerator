@@ -7,4 +7,13 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None 
+    <None Remove="MonsterManual.txt" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="MonsterManual.txt">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>
