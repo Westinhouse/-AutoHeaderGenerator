@@ -1,3 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Stud
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex 1 - 4", "Regex 1 - 4.csproj", "{78E3E023-FFDC-4701-AF8F-2489F598A59E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationP
