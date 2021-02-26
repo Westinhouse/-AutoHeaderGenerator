@@ -1,0 +1,79 @@
+
+Aboleth
+Large aberration, lawful evil
+Hit Points: 135 (18d10+36) 
+Armor Class: 17 (Natural Armor) 
+Speed: 10 ft., swim 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Acolyte
+Medium humanoid (any race), any alignment
+Hit Points: 9 (2d8) 
+Armor Class: 10 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Adult Black Dragon
+Huge dragon, chaotic evil
+Hit Points: 195 (17d12+85) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Adult Blue Dragon
+Huge dragon, lawful evil
+Hit Points: 225 (18d12+108) 
+Armor Class: 19 
+Speed: 40 ft., burrow 30 ft., fly 80 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Adult Brass Dragon
+Huge dragon, chaotic good
+Hit Points: 172 (15d12+75) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 13 (10,000 XP)
+
+Adult Bronze Dragon
+Huge dragon, lawful good
+Hit Points: 212 (17d12+102) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 15 (13,000 XP)
+
+Adult Copper Dragon
+Huge dragon, chaotic good
+Hit Points: 184 (16d12+80) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Adult Gold Dragon
+Huge dragon, lawful good
+Hit Points: 256 (19d12+133) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 17 (18,000 XP)
+
+Adult Green Dragon
+Huge dragon, lawful evil
+Hit Points: 207 (18d12+90) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 15 (13,000 XP)
+
+Adult Red Dragon
+Huge dragon, chaotic evil
+Hit Points: 256 (19d12+133) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 17 (18,000 XP)
+
+Adult Silver Dragon
+Huge dragon, lawful good
+Hit Points: 243 (18d12+126) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Adult White Dragon
