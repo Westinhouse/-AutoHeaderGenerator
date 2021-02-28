@@ -2047,3 +2047,222 @@ Violet Fungus
 Medium plant, unaligned
 Hit Points: 18 (4d8) 
 Armor Class: 5 
+Speed: 5 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Vrock
+Large fiend (demon), chaotic evil
+Hit Points: 104 (11d10+44) 
+Armor Class: 15 (Natural Armor) 
+Speed: 40 ft., fly 60 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Vulture
+Medium beast, unaligned
+Hit Points: 5 (1d8+1) 
+Armor Class: 10 
+Speed: 10 ft., fly 50 ft. 
+Challenge Rating: 0 (10 XP)
+
+Warhorse
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 11 
+Speed: 60 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Warhorse Skeleton
+Large undead, lawful evil
+Hit Points: 22 (3d10+6) 
+Armor Class: 13 (Barding Scraps) 
+Speed: 60 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Water Elemental
+Large elemental, neutral
+Hit Points: 114 (12d10+48) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., swim 90 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Weasel
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 13 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Werebear
+Medium humanoid (human, shapechanger), neutral good
+Hit Points: 135 (18d8+54) 
+Armor Class: 10 (In Humanoid Form, 11 In Bear And Hybrid Forms ) 
+Speed: 30 ft. (40 ft., climb 30 ft. in bear or hybrid form) 
+Challenge Rating: 5 (1,800 XP)
+
+Wereboar
+Medium humanoid (human, shapechanger), neutral evil
+Hit Points: 78 (12d8+24) 
+Armor Class: 10 (In Humanoid Form, 11 In Boar And Hybrid Forms ) 
+Speed: 30 ft. (40 ft. in boar form) 
+Challenge Rating: 4 (1,100 XP)
+
+Wererat
+Medium humanoid (human, shapechanger), lawful evil
+Hit Points: 33 (6d8+6) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Weretiger
+Medium humanoid (human, shapechanger), neutral
+Hit Points: 120 (16d8+48) 
+Armor Class: 12 
+Speed: 30 ft. (40 ft. in tiger form) 
+Challenge Rating: 4 (1,100 XP)
+
+Werewolf
+Medium humanoid (human, shapechanger), chaotic evil
+Hit Points: 58 (9d8+18) 
+Armor Class: 11 (In Humanoid Form, 12 In Wolf Or Hybrid Form) 
+Speed: 30 ft. (40 ft. in wolf form) 
+Challenge Rating: 3 (700 XP)
+
+White Dragon Wyrmling
+Medium dragon, chaotic evil
+Hit Points: 32 (5d8+10) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., burrow 15 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Wight
+Medium undead, neutral evil
+Hit Points: 45 (6d8+18) 
+Armor Class: 14 (Studded Leather) 
+Speed: 30 ft. 
+Challenge Rating: 3 (700 XP)
+
+Will-o'-Wisp
+Tiny undead, chaotic evil
+Hit Points: 22 
+Armor Class: 19 
+Speed: 0 ft., fly 50 ft. (hover) 
+Challenge Rating: 2 (450 XP)
+
+Winter Wolf
+Large monstrosity, neutral evil
+Hit Points: 75 (10d10+20) 
+Armor Class: 13 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Rating: 3 (700 XP)
+
+Wolf
+Medium beast, unaligned
+Hit Points: 11 (2d8+2) 
+Armor Class: 13 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Worg
+Large monstrosity, neutral evil
+Hit Points: 26 (4d10+4) 
+Armor Class: 13 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Wraith
+Medium undead, neutral evil
+Hit Points: 67 (9d8+27) 
+Armor Class: 13 
+Speed: 0 ft., fly 60 ft. (hover) 
+Challenge Rating: 5 (1,800 XP)
+
+Wyvern
+Large dragon, unaligned
+Hit Points: 110 (13d10+39) 
+Armor Class: 13 (Natural Armor) 
+Speed: 20 ft., fly 80 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Xorn
+Medium elemental, neutral
+Hit Points: 73 (7d8+42) 
+Armor Class: 19 (Natural Armor) 
+Speed: 20 ft., burrow 20 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Young Black Dragon
+Large dragon, chaotic evil
+Hit Points: 127 (15d10+45) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Young Blue Dragon
+Large dragon, lawful evil
+Hit Points: 152 (16d10+64) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Young Brass Dragon
+Large dragon, chaotic good
+Hit Points: 110 (13d10+39) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow 20 ft., fly 80 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Young Bronze Dragon
+Large dragon, lawful good
+Hit Points: 142 (15d10+60) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Young Copper Dragon
+Large dragon, chaotic good
+Hit Points: 119 (14d10+42) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Young Gold Dragon
+Large dragon, lawful good
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Young Green Dragon
+Large dragon, lawful evil
+Hit Points: 136 (16d10+48) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Young Red Dragon
+Large dragon, chaotic evil
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Young Silver Dragon
+Large dragon, lawful good
+Hit Points: 168 (16d10+80) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Young White Dragon
+Large dragon, chaotic evil
+Hit Points: 133 (14d10+56) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Zombie
+Medium undead, neutral evil
+Hit Points: 22 (3d8+9) 
+Armor Class: 8 
+Speed: 20 ft. 
+Challenge Rating: 1/4 (50 XP)
