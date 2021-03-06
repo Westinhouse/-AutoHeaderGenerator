@@ -10,4 +10,13 @@ namespace Regex_3____1
         static void Main(string[] args)
         {
             string[] monsterManualLines = File.ReadAllLines("MonsterManual.txt");
-            string monsterManual = File.ReadAllText("
+            string monsterManual = File.ReadAllText("MonsterManual.txt");
+
+            var namesByAlignment = new List<string>[3, 3];
+            var namesOfUnaligned = new List<string>();
+            var namesOfAnyAlignment = new List<string>();
+            var namesOfSpecialCases = new List<string>();
+
+
+
+            for (in
