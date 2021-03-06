@@ -19,4 +19,11 @@ namespace Regex_3____1
 
 
 
-            for (in
+            for (int axis1Index = 0; axis1Index < 3; axis1Index++)
+            {
+                for (int axis2Index = 0; axis2Index < 3; axis2Index++)
+                {
+                    namesByAlignment[axis1Index, axis2Index] = new List<string>();
+                }
+            }
+            string[] 
