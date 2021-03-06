@@ -26,4 +26,9 @@ namespace Regex_3____1
                     namesByAlignment[axis1Index, axis2Index] = new List<string>();
                 }
             }
-            string[] 
+            string[] axis1Values = new[] { "chaotic", "neutral", "lawful" };
+            string[] axis2Values = new[] { "evil", "neutral", "good" };
+
+            for (int i = 0; i < monsterManualLines.Length; i++)
+            {
+                Match match = Regex.Match(monsterManualLines[i
