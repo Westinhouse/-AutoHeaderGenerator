@@ -38,4 +38,10 @@ namespace Regex_3____1
 
                     if (match.Groups[1].Value == "neutral")
                     {
-                        namesByAlignm
+                        namesByAlignment[1, 1].Add(monsterName);
+                    }
+                    else
+                    {
+                        string axis1Text = match.Groups[2].Value;
+                        string axis2Text = match.Groups[3].Value;
+                        int axis1Index = Ar
