@@ -31,4 +31,11 @@ namespace Regex_3____1
 
             for (int i = 0; i < monsterManualLines.Length; i++)
             {
-                Match match = Regex.Match(monsterManualLines[i
+                Match match = Regex.Match(monsterManualLines[i], @"((chaotic|neutral|lawful) (evil|neutral|good)|neutral)");
+                if (match.Success)
+                {
+                    string monsterName = monsterManualLines[i - 1];
+
+                    if (match.Groups[1].Value == "neutral")
+                    {
+                        namesByAlignm
