@@ -44,4 +44,9 @@ namespace Regex_3____1
                     {
                         string axis1Text = match.Groups[2].Value;
                         string axis2Text = match.Groups[3].Value;
-                        int axis1Index = Ar
+                        int axis1Index = Array.IndexOf(axis1Values, axis1Text);
+                        int axis2Index = Array.IndexOf(axis2Values, axis2Text);
+                        namesByAlignment[axis1Index, axis2Index].Add(monsterName);
+                    }
+                }
+                else if 
