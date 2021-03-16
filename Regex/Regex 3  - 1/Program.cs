@@ -55,4 +55,8 @@ namespace Regex_3____1
                 }
                 else if (Regex.IsMatch(monsterManualLines[i], @"any alignment"))
                 {
-                    na
+                    namesOfAnyAlignment.Add(monsterManualLines[i - 1]);
+                }
+                else if (Regex.IsMatch(monsterManualLines[i], @"any.*alignment"))
+                {
+                    namesOfSpecialCases.Add(monsterManualLines[i - 1] + monsterManualLines[i].Substring(monsterManualLines[i].IndexOf(",
