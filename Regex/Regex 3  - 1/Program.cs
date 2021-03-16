@@ -49,4 +49,10 @@ namespace Regex_3____1
                         namesByAlignment[axis1Index, axis2Index].Add(monsterName);
                     }
                 }
-                else if 
+                else if (Regex.IsMatch(monsterManualLines[i], @"unaligned"))
+                {
+                    namesOfUnaligned.Add(monsterManualLines[i - 1]);
+                }
+                else if (Regex.IsMatch(monsterManualLines[i], @"any alignment"))
+                {
+                    na
