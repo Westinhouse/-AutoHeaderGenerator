@@ -59,4 +59,13 @@ namespace Regex_3____1
                 }
                 else if (Regex.IsMatch(monsterManualLines[i], @"any.*alignment"))
                 {
-                    namesOfSpecialCases.Add(monsterManualLines[i - 1] + monsterManualLines[i].Substring(monsterManualLines[i].IndexOf(",
+                    namesOfSpecialCases.Add(monsterManualLines[i - 1] + monsterManualLines[i].Substring(monsterManualLines[i].IndexOf(",")));
+                }
+            }
+
+
+            for (int axis1Index = 0; axis1Index < 3; axis1Index++)
+            {
+                for (int axis2Index = 0; axis2Index < 3; axis2Index++)
+                {
+                    string aligmentName = $"{axis1Values[axis1Inde
