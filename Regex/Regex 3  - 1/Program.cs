@@ -68,4 +68,10 @@ namespace Regex_3____1
             {
                 for (int axis2Index = 0; axis2Index < 3; axis2Index++)
                 {
-                    string aligmentName = $"{axis1Values[axis1Inde
+                    string aligmentName = $"{axis1Values[axis1Index]} {axis2Values[axis2Index]}";
+
+                    if (aligmentName == "neutral neutral")
+                    {
+                        aligmentName = "true neutral";
+                    }
+                    Console.WriteLine($"The names of the monsters that 
