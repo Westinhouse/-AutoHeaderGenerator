@@ -74,4 +74,8 @@ namespace Regex_3____1
                     {
                         aligmentName = "true neutral";
                     }
-                    Console.WriteLine($"The names of the monsters that 
+                    Console.WriteLine($"The names of the monsters that are {aligmentName} are");
+                    Console.WriteLine("---------------------------------------------");
+                    foreach (string name in namesByAlignment[axis1Index, axis2Index])
+                    {
+                        Console.WriteLine(
