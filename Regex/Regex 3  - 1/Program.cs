@@ -95,4 +95,12 @@ namespace Regex_3____1
             Console.WriteLine();
 
             Console.WriteLine("The names of monsters that can be of any alignment are:");
-            Console.Wr
+            Console.WriteLine("-------------------------------------------------------");
+            foreach (string name in namesOfAnyAlignment)
+            {
+                Console.WriteLine(name);
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("The names of monsters with speci
