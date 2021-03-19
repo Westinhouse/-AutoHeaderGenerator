@@ -78,4 +78,13 @@ namespace Regex_3____1
                     Console.WriteLine("---------------------------------------------");
                     foreach (string name in namesByAlignment[axis1Index, axis2Index])
                     {
-                        Console.WriteLine(
+                        Console.WriteLine(name);
+                    }
+                    Console.WriteLine();
+
+                }
+            }
+
+            Console.WriteLine("The names of monsters that are unaligned are:");
+            Console.WriteLine("---------------------------------------------");
+ 
