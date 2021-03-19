@@ -87,4 +87,12 @@ namespace Regex_3____1
 
             Console.WriteLine("The names of monsters that are unaligned are:");
             Console.WriteLine("---------------------------------------------");
- 
+            foreach (string name in namesOfUnaligned)
+            {
+                Console.WriteLine(name);
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("The names of monsters that can be of any alignment are:");
+            Console.Wr
