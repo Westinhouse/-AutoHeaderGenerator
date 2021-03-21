@@ -103,4 +103,16 @@ namespace Regex_3____1
 
             Console.WriteLine();
 
-            Console.WriteLine("The names of monsters with speci
+            Console.WriteLine("The names of monsters with special cases are:");
+            Console.WriteLine("-------------------------------------------------------");
+            foreach (string name in namesOfSpecialCases)
+            {
+                Console.WriteLine(name);
+            }
+
+
+        }
+    }
+}
+
+
