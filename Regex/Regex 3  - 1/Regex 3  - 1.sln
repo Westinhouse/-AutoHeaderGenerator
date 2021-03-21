@@ -3,4 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex 3  - 1", "Regex 3  - 1.csproj", "{BA87F2E4-E889-4745-9EB9-FEF
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex 3  - 1", "Regex 3  - 1.csproj", "{BA87F2E4-E889-4745-9EB9-FEFFD93E1ECE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA87F2E4-E889-4745-9EB9-FEFFD93E1ECE}.Debug|Any CPU.ActiveCf
