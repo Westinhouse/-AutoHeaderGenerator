@@ -16,4 +16,10 @@ Global
 		{BA87F2E4-E889-4745-9EB9-FEFFD93E1ECE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA87F2E4-E889-4745-9EB9-FEFFD93E1ECE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
-	
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1122C807-5067-4AC9-906E-FA630BFB984C}
+	EndGlobalSection
+EndGlobal
