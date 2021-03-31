@@ -1,1 +1,9 @@
-<Project Sdk="Microsoft.NET.
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Regex_3___2</RootNamespace>
+  </PropertyGroup>
+
+</Project>
