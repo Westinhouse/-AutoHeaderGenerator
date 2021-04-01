@@ -7,4 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regex 3 - 2", "Regex 3 - 2.
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any 
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF09255-9F5F-4637-9F2B-9DA9FFA4C06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF09255-9F5F-4637-9F2B-9DA9FFA4C06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		
