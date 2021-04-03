@@ -14,4 +14,7 @@ namespace Regex_4
             for (int i = 0; i < games.Length; i++)
             {
                 string htmlCode = httpClient.GetStringAsync(games[i]).Result;
-                Match name = Rege
+                Match name = Regex.Match(htmlCode, @"<title>(.*) on Steam<");
+                Match review = Regex.Match(htmlCode, @"game_review_summary \w*"">(.*)<");
+                string score = review.Groups[1].Value;
+                string title = name.Groups[1].Value.Trim();
