@@ -18,3 +18,9 @@ namespace Regex_4
                 Match review = Regex.Match(htmlCode, @"game_review_summary \w*"">(.*)<");
                 string score = review.Groups[1].Value;
                 string title = name.Groups[1].Value.Trim();
+                Console.WriteLine($"The current rating of the game {title} is {score}");
+            }
+
+        }
+    }
+}
