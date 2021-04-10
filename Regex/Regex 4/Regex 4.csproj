@@ -3,4 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <RootNamespace>Reg
+    <RootNamespace>Regex_4</RootNamespace>
+  </PropertyGroup>
+
+</Project>
