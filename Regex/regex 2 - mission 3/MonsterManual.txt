@@ -41,4 +41,15 @@ Speed: 40 ft., fly 80 ft., swim 40 ft.
 Challenge Rating: 15 (13,000 XP)
 
 Adult Copper Dragon
-Huge dragon, chaotic
+Huge dragon, chaotic good
+Hit Points: 184 (16d12+80) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Adult Gold Dragon
+Huge dragon, lawful good
+Hit Points: 256 (19d12+133) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge 
