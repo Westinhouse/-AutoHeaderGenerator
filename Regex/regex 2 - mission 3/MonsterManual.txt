@@ -7,4 +7,16 @@ Challenge Rating: 10 (5,900 XP)
 
 Acolyte
 Medium humanoid (any race), any alignment
-Hi
+Hit Points: 9 (2d8) 
+Armor Class: 10 
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Adult Black Dragon
+Huge dragon, chaotic evil
+Hit Points: 195 (17d12+85) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Adult Blue Dragon
