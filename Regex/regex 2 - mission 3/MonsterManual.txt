@@ -52,4 +52,15 @@ Huge dragon, lawful good
 Hit Points: 256 (19d12+133) 
 Armor Class: 19 (Natural Armor) 
 Speed: 40 ft., fly 80 ft., swim 40 ft. 
-Challenge 
+Challenge Rating: 17 (18,000 XP)
+
+Adult Green Dragon
+Huge dragon, lawful evil
+Hit Points: 207 (18d12+90) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 15 (13,000 XP)
+
+Adult Red Dragon
+Huge dragon, chaotic evil
+Hit Points: 25
