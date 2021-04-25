@@ -73,4 +73,17 @@ Huge dragon, lawful good
 Hit Points: 243 (18d12+126) 
 Armor Class: 19 (Natural Armor) 
 Speed: 40 ft., fly 80 ft. 
-Challenge Rating: 16 (15,000 X
+Challenge Rating: 16 (15,000 XP)
+
+Adult White Dragon
+Huge dragon, chaotic evil
+Hit Points: 200 (16d12+96) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 13 (10,000 XP)
+
+Air Elemental
+Large elemental, neutral
+Hit Points: 90 (12d10+24) 
+Armor Class: 15 
+Speed: 0 ft., fly 90 ft. (ho
