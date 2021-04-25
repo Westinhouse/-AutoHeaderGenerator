@@ -63,4 +63,14 @@ Challenge Rating: 15 (13,000 XP)
 
 Adult Red Dragon
 Huge dragon, chaotic evil
-Hit Points: 25
+Hit Points: 256 (19d12+133) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 17 (18,000 XP)
+
+Adult Silver Dragon
+Huge dragon, lawful good
+Hit Points: 243 (18d12+126) 
+Armor Class: 19 (Natural Armor) 
+Speed: 40 ft., fly 80 ft. 
+Challenge Rating: 16 (15,000 X
