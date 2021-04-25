@@ -86,4 +86,16 @@ Air Elemental
 Large elemental, neutral
 Hit Points: 90 (12d10+24) 
 Armor Class: 15 
-Speed: 0 ft., fly 90 ft. (ho
+Speed: 0 ft., fly 90 ft. (hover) 
+Challenge Rating: 5 (1,800 XP)
+
+Ancient Black Dragon
+Gargantuan dragon, chaotic evil
+Hit Points: 367 (21d20+147) 
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 21 (33,000 XP)
+
+Ancient Blue Dragon
+Gargantuan dragon, lawful evil
+Hit Points: 481 (26d20+208) 
