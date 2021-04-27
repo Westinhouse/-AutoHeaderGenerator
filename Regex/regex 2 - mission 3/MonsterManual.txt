@@ -99,3 +99,13 @@ Challenge Rating: 21 (33,000 XP)
 Ancient Blue Dragon
 Gargantuan dragon, lawful evil
 Hit Points: 481 (26d20+208) 
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 23 (50,000 XP)
+
+Ancient Brass Dragon
+Gargantuan dragon, chaotic good
+Hit Points: 297 (17d20+119) 
+Armor Class: 20 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 20 (25
