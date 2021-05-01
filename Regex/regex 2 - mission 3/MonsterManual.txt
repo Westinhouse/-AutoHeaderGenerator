@@ -108,4 +108,25 @@ Gargantuan dragon, chaotic good
 Hit Points: 297 (17d20+119) 
 Armor Class: 20 (Natural Armor) 
 Speed: 40 ft., burrow 40 ft., fly 80 ft. 
-Challenge Rating: 20 (25
+Challenge Rating: 20 (25,000 XP)
+
+Ancient Bronze Dragon
+Gargantuan dragon, lawful good
+Hit Points: 444 (24d20+192) 
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 22 (41,000 XP)
+
+Ancient Copper Dragon
+Gargantuan dragon, chaotic good
+Hit Points: 350 (20d20+140) 
+Armor Class: 21 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 21 (33,000 XP)
+
+Ancient Gold Dragon
+Gargantuan dragon, lawful good
+Hit Points: 546 (28d20+252) 
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 24 (62,000 X
