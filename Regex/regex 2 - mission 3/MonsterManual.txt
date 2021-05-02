@@ -129,4 +129,16 @@ Gargantuan dragon, lawful good
 Hit Points: 546 (28d20+252) 
 Armor Class: 22 (Natural Armor) 
 Speed: 40 ft., fly 80 ft., swim 40 ft. 
-Challenge Rating: 24 (62,000 X
+Challenge Rating: 24 (62,000 XP)
+
+Ancient Green Dragon
+Gargantuan dragon, lawful evil
+Hit Points: 385 (22d20+154) 
+Armor Class: 21 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 22 (41,000 XP)
+
+Ancient Red Dragon
+Gargantuan dragon, chaotic evil
+Hit Points: 546 (28d20+252) 
+Armor Class
