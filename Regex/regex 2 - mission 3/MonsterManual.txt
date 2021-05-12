@@ -141,4 +141,15 @@ Challenge Rating: 22 (41,000 XP)
 Ancient Red Dragon
 Gargantuan dragon, chaotic evil
 Hit Points: 546 (28d20+252) 
-Armor Class
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 24 (62,000 XP)
+
+Ancient Silver Dragon
+Gargantuan dragon, lawful good
+Hit Points: 487 (25d20+225) 
+Armor Class: 22 (Natural Armor) 
+Speed: 40 ft., fly 80 ft. 
+Challenge Rating: 23 (50,000 XP)
+
+Anci
