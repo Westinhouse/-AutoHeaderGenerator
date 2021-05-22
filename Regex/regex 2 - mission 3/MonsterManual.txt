@@ -175,4 +175,17 @@ Challenge Rating: 1 (200 XP)
 
 Ankheg
 Large monstrosity, unaligned
-Hit Points: 39
+Hit Points: 39 (6d10+6) 
+Armor Class: 14 (Natural Armor, 11 While Prone) 
+Speed: 30 ft., burrow 10 ft. 
+Challenge Rating: 2 (450 XP)
+
+Ape
+Medium beast, unaligned
+Hit Points: 19 (3d8+6) 
+Armor Class: 12 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Archmage
+Medium humanoid
