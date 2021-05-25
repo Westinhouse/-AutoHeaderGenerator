@@ -213,4 +213,18 @@ Huge plant, unaligned
 Hit Points: 59 (7d12+14) 
 Armor Class: 13 (Natural Armor) 
 Speed: 20 ft. 
-Challenge
+Challenge Rating: 2 (450 XP)
+
+Axe Beak
+Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 11 
+Speed: 50 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Azer
+Medium elemental, lawful neutral
+Hit Points: 39 (6d8+12) 
+Armor Class: 17 (Natural Armor, Shield) 
+Speed: 30 ft. 
+Challenge 
