@@ -268,4 +268,17 @@ Barbed Devil
 Medium fiend (devil), lawful evil
 Hit Points: 110 (13d8+52) 
 Armor Class: 15 (Natural Armor) 
-Speed: 30 ft
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Basilisk
+Medium monstrosity, unaligned
+Hit Points: 52 (8d8+16) 
+Armor Class: 15 (Natural Armor) 
+Speed: 20 ft. 
+Challenge Rating: 3 (700 XP)
+
+Bat
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor 
