@@ -294,4 +294,16 @@ Challenge Rating: 3 (700 XP)
 
 Behir
 Huge monstrosity, neutral evil
-Hit Points: 1
+Hit Points: 168 (16d12+64) 
+Armor Class: 17 (Natural Armor) 
+Speed: 50 ft., climb 40 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Berserker
+Medium humanoid (any race), any chaotic alignment
+Hit Points: 67 (9d8+27) 
+Armor Class: 13 (Hide Armor) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Blac
