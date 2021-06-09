@@ -369,4 +369,15 @@ Armor Class: 16 (Natural Armor)
 Speed: 30 ft., burrow 15 ft., fly 60 ft. 
 Challenge Rating: 1 (200 XP)
 
-Bro
+Bronze Dragon Wyrmling
+Medium dragon, lawful good
+Hit Points: 32 (5d8+10) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Brown Bear
+Large beast, unaligned
+Hit Points: 34 (4d10+12) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft., 
