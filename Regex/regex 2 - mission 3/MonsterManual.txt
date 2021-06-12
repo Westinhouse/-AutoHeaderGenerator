@@ -380,4 +380,17 @@ Brown Bear
 Large beast, unaligned
 Hit Points: 34 (4d10+12) 
 Armor Class: 11 (Natural Armor) 
-Speed: 40 ft., 
+Speed: 40 ft., climb 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Bugbear
+Medium humanoid (goblinoid), chaotic evil
+Hit Points: 27 (5d8+5) 
+Armor Class: 16 (Hide Armor, Shield) 
+Speed: 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Bulette
+Large monstrosity, unaligned
+Hit Points: 94 (9d10+45) 
+Armor Class: 17 
