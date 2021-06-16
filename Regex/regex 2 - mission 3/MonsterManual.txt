@@ -408,4 +408,17 @@ Cat
 Tiny beast, unaligned
 Hit Points: 2 (1d4) 
 Armor Class: 12 
-Speed: 40 
+Speed: 40 ft., climb 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Centaur
+Large monstrosity, neutral good
+Hit Points: 45 (6d10+12) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 2 (450 XP)
+
+Chain Devil
+Medium fiend (devil), lawful evil
+Hit Points: 85 (10d8+40) 
+Armor
