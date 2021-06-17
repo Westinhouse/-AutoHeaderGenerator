@@ -421,4 +421,16 @@ Challenge Rating: 2 (450 XP)
 Chain Devil
 Medium fiend (devil), lawful evil
 Hit Points: 85 (10d8+40) 
-Armor
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Chimera
+Large monstrosity, chaotic evil
+Hit Points: 114 (12d10+48) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Chuul
+Large aberration, chaotic 
