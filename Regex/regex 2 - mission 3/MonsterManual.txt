@@ -444,4 +444,18 @@ Large construct, unaligned
 Hit Points: 133 (14d10+56) 
 Armor Class: 14 (Natural Armor) 
 Speed: 20 ft. 
-Challenge Rating: 9 (5,000 X
+Challenge Rating: 9 (5,000 XP)
+
+Cloaker
+Large aberration, chaotic neutral
+Hit Points: 78 (12d10+12) 
+Armor Class: 14 (Natural Armor) 
+Speed: 10 ft., fly 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Cloud Giant
+Huge giant, neutral good (50%) or neutral evil (50%)
+Hit Points: 200 (16d12+96) 
+Armor Class: 14 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 9 (5
