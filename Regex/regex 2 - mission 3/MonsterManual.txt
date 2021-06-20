@@ -458,4 +458,20 @@ Huge giant, neutral good (50%) or neutral evil (50%)
 Hit Points: 200 (16d12+96) 
 Armor Class: 14 (Natural Armor) 
 Speed: 40 ft. 
-Challenge Rating: 9 (5
+Challenge Rating: 9 (5,000 XP)
+
+Cockatrice
+Small monstrosity, unaligned
+Hit Points: 27 (6d6+6) 
+Armor Class: 11 
+Speed: 20 ft., fly 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Commoner
+Medium humanoid (any race), any alignment
+Hit Points: 4 (1d8) 
+Armor Class: 10 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Cons
