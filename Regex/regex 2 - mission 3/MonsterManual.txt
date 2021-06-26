@@ -474,4 +474,16 @@ Armor Class: 10
 Speed: 30 ft. 
 Challenge Rating: 0 (10 XP)
 
-Cons
+Constrictor Snake
+Large beast, unaligned
+Hit Points: 13 (2d10+2) 
+Armor Class: 12 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Copper Dragon Wyrmling
+Medium dragon, chaotic good
+Hit Points: 22 (4d8+4) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft., climb 30 ft., fly 60 ft. 
+Challen
