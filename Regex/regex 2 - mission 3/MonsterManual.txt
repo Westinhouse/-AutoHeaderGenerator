@@ -538,4 +538,19 @@ Speed: 40 ft.
 Challenge Rating: 1 (200 XP)
 
 Deep Gnome (Svirfneblin)
-Small humanoid (gnom
+Small humanoid (gnome), neutral good
+Hit Points: 16 (3d6 + 6) 
+Armor Class: 15 (chain shirt) 
+Speed: 20 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Deer
+Medium beast, unaligned
+Hit Points: 4 (1d8) 
+Armor Class: 13 
+Speed: 50 ft. 
+Challenge Rating: 0 (10 XP)
+
+Deva
+Medium celestial, lawful good
+Hit Points: 136 (16d8+64) 
