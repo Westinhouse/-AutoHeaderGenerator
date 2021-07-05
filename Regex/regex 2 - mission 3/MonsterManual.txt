@@ -568,4 +568,16 @@ Challenge Rating: 1 (200 XP)
 Diseased Giant Rat
 Small beast, unaligned
 Hit Points: 7 
-Armor
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Djinni
+Large elemental, chaotic good
+Hit Points: 161 (14d10+84) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 90 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Doppelganger
+Medium monstrosity (shapechanger), unaligned
