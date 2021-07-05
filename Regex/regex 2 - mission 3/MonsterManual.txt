@@ -554,3 +554,18 @@ Challenge Rating: 0 (10 XP)
 Deva
 Medium celestial, lawful good
 Hit Points: 136 (16d8+64) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 90 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Dire Wolf
+Large beast, unaligned
+Hit Points: 37 (5d10+10) 
+Armor Class: 14 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Rating: 1 (200 XP)
+
+Diseased Giant Rat
+Small beast, unaligned
+Hit Points: 7 
+Armor
