@@ -595,4 +595,14 @@ Challenge Rating: 1/4 (50 XP)
 
 Dragon Turtle
 Gargantuan dragon, neutral
-H
+Hit Points: 341 (22d20+10) 
+Armor Class: 20 (Natural Armor) 
+Speed: 20 ft., swim 40 ft. 
+Challenge Rating: 17 (18,000 XP)
+
+Dretch
+Small fiend (demon), chaotic evil
+Hit Points: 18 (4d6+4) 
+Armor Class: 11 (Natural Armor) 
+Speed: 20 ft. 
+Chal
