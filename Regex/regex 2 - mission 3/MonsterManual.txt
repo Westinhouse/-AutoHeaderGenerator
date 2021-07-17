@@ -618,4 +618,19 @@ Drow
 Medium humanoid (elf), neutral evil
 Hit Points: 13 (3d8) 
 Armor Class: 15 (Chain Shirt) 
-Speed: 30 ft.
+Speed: 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Druid
+Medium humanoid (any race), any alignment
+Hit Points: 27 (5d8+5) 
+Armor Class: 11 (16 With Barkskin) 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Dryad
+Medium fey, neutral
+Hit Points: 22 (5d8) 
+Armor Class: 11 (16 With Barkskin) 
+Speed: 30 ft. 
+Cha
