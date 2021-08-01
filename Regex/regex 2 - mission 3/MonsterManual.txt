@@ -633,4 +633,18 @@ Medium fey, neutral
 Hit Points: 22 (5d8) 
 Armor Class: 11 (16 With Barkskin) 
 Speed: 30 ft. 
-Cha
+Challenge Rating: 1 (200 XP)
+
+Duergar
+Medium humanoid (dwarf), lawful evil
+Hit Points: 26 (4d8+4) 
+Armor Class: 16 (Scale Mail, Shield) 
+Speed: 25 ft. 
+Challenge Rating: 1 (200 XP)
+
+Dust Mephit
+Small elemental, neutral evil
+Hit Points: 17 (5d6) 
+Armor Class: 12 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating
