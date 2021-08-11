@@ -661,4 +661,18 @@ Large elemental, neutral
 Hit Points: 126 (12d10+60) 
 Armor Class: 17 (Natural Armor) 
 Speed: 30 ft., burrow 30 ft. 
-Challenge Rating
+Challenge Rating: 5 (1,800 XP)
+
+Efreeti
+Large elemental, lawful evil
+Hit Points: 200 (16d10+112) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., fly 60 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Elephant
+Huge beast, unaligned
+Hit Points: 76 (8d12+24) 
+Armor Class: 12 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rati
