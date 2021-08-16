@@ -703,4 +703,18 @@ Large giant, chaotic evil
 Hit Points: 85 (10d10+30) 
 Armor Class: 12 (Natural Armor) 
 Speed: 40 ft. 
-Challenge Rating: 
+Challenge Rating: 4 (1,100 XP)
+
+Fire Elemental
+Large elemental, neutral
+Hit Points: 102 (12d10+36) 
+Armor Class: 13 
+Speed: 50 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Fire Giant
+Huge giant, lawful evil
+Hit Points: 162 (13d12+78) 
+Armor Class: 18 (Plate) 
+Speed: 30 ft. 
+Challenge Rating: 9 (5,
