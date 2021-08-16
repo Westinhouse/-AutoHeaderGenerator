@@ -689,4 +689,18 @@ Medium fiend (devil), lawful evil
 Hit Points: 153 (18d8+72) 
 Armor Class: 18 (Plate) 
 Speed: 30 ft., fly 60 ft. 
-Challenge Rating: 12 (8,400 
+Challenge Rating: 12 (8,400 XP)
+
+Ettercap
+Medium monstrosity, neutral evil
+Hit Points: 44 (8d8+8) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Ettin
+Large giant, chaotic evil
+Hit Points: 85 (10d10+30) 
+Armor Class: 12 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 
