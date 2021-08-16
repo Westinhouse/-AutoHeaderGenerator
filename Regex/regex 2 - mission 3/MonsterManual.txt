@@ -675,4 +675,18 @@ Huge beast, unaligned
 Hit Points: 76 (8d12+24) 
 Armor Class: 12 (Natural Armor) 
 Speed: 40 ft. 
-Challenge Rati
+Challenge Rating: 4 (1,100 XP)
+
+Elk
+Large beast, unaligned
+Hit Points: 13 (2d10+2) 
+Armor Class: 10 
+Speed: 50 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Erinyes
+Medium fiend (devil), lawful evil
+Hit Points: 153 (18d8+72) 
+Armor Class: 18 (Plate) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 12 (8,400 
