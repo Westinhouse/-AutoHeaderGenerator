@@ -717,4 +717,18 @@ Huge giant, lawful evil
 Hit Points: 162 (13d12+78) 
 Armor Class: 18 (Plate) 
 Speed: 30 ft. 
-Challenge Rating: 9 (5,
+Challenge Rating: 9 (5,000 XP)
+
+Flesh Golem
+Medium construct, neutral
+Hit Points: 93 (11d8+44) 
+Armor Class: 9 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Flying Snake
+Tiny beast, unaligned
+Hit Points: 5 (2d4) 
+Armor Class: 14 
+Speed: 30 ft., fly 60 ft., swim 30 ft. 
+Challenge Rating:
