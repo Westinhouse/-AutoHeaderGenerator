@@ -731,4 +731,17 @@ Tiny beast, unaligned
 Hit Points: 5 (2d4) 
 Armor Class: 14 
 Speed: 30 ft., fly 60 ft., swim 30 ft. 
-Challenge Rating:
+Challenge Rating: 1/8 (25 XP)
+
+Flying Sword
+Small construct, unaligned
+Hit Points: 17 (5d6) 
+Armor Class: 17 (Natural Armor) 
+Speed: 0 ft., fly 50 ft. It can hover. 
+Challenge Rating: 1/4 (50 XP)
+
+Frog
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 11 
+Speed: 20 ft., swim 20 ft.
