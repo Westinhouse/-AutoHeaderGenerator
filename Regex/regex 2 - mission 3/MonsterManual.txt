@@ -744,4 +744,18 @@ Frog
 Tiny beast, unaligned
 Hit Points: 1 (1d4-1) 
 Armor Class: 11 
-Speed: 20 ft., swim 20 ft.
+Speed: 20 ft., swim 20 ft. 
+Challenge Rating: 0 (10 XP)
+
+Frost Giant
+Huge giant, neutral evil
+Hit Points: 138 (12d12+60) 
+Armor Class: 15 (Patchwork Armor) 
+Speed: 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Gargoyle
+Medium elemental, chaotic evil
+Hit Points: 52 (7d8+21) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 ft
