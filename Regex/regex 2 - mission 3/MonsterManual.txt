@@ -758,4 +758,19 @@ Gargoyle
 Medium elemental, chaotic evil
 Hit Points: 52 (7d8+21) 
 Armor Class: 15 (Natural Armor) 
-Speed: 30 ft., fly 60 ft
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 2 (450 XP)
+
+Gelatinous Cube
+Large ooze, unaligned
+Hit Points: 84 (8d10+40) 
+Armor Class: 6 
+Speed: 15 ft. 
+Challenge Rating: 2 (450 XP)
+
+Ghast
+Medium undead, chaotic evil
+Hit Points: 36 (8d8) 
+Armor Class: 13 
+Speed: 30 ft. 
+Challenge Rating: 
