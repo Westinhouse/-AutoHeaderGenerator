@@ -804,4 +804,17 @@ Speed: 30 ft., burrow 10 ft.
 Challenge Rating: 1/4 (50 XP)
 
 Giant Bat
-Large bea
+Large beast, unaligned
+Hit Points: 22 (4d10) 
+Armor Class: 13 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Boar
+Large beast, unaligned
+Hit Points: 42 (5d10+15) 
+Armor Class: 12 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Giant Cen
