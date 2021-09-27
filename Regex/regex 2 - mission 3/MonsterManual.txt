@@ -817,4 +817,16 @@ Armor Class: 12 (Natural Armor)
 Speed: 40 ft. 
 Challenge Rating: 2 (450 XP)
 
-Giant Cen
+Giant Centipede
+Small beast, unaligned
+Hit Points: 4 (1d6+1) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Constrictor Snake
+Huge beast, unaligned
+Hit Points: 60 (8d12+8) 
+Armor Class: 12 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 2 (450 X
