@@ -859,4 +859,20 @@ Armor Class: 14 (Natural Armor)
 Speed: 60 ft. 
 Challenge Rating: 2 (450 XP)
 
-Giant
+Giant Fire Beetle
+Small beast, unaligned
+Hit Points: 4 (1d6+1) 
+Armor Class: 13 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Giant Frog
+Medium beast, unaligned
+Hit Points: 18 (4d8) 
+Armor Class: 11 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Goat
+Large beast, unaligned
+Hi
