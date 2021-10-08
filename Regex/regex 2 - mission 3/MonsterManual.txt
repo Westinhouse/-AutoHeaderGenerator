@@ -875,4 +875,17 @@ Challenge Rating: 1/4 (50 XP)
 
 Giant Goat
 Large beast, unaligned
-Hi
+Hit Points: 19 (3d10+3) 
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Giant Hyena
+Large beast, unaligned
+Hit Points: 45 (6d10+12) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Lizard
+Large beast, unaligned
