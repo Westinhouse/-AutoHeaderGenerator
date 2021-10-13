@@ -889,3 +889,17 @@ Challenge Rating: 1 (200 XP)
 
 Giant Lizard
 Large beast, unaligned
+Hit Points: 19 (3d10+3) 
+Armor Class: 12 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Giant Octopus
+Large beast, unaligned
+Hit Points: 52 (8d10+8) 
+Armor Class: 11 
+Speed: 10 ft., swim 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Owl
+Large beast, n
