@@ -931,4 +931,17 @@ Challenge Rating: 3 (700 XP)
 
 Giant Sea Horse
 Large beast, unaligned
-Hit Points: 1
+Hit Points: 16 (3d10) 
+Armor Class: 13 (Natural Armor) 
+Speed: 0 ft., swim 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Giant Shark
+Huge beast, unaligned
+Hit Points: 126 (11d12+55) 
+Armor Class: 13 (Natural Armor) 
+Speed: Swim 50 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Giant Spider
+Large be
