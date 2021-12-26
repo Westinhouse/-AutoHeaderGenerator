@@ -944,4 +944,18 @@ Speed: Swim 50 ft.
 Challenge Rating: 5 (1,800 XP)
 
 Giant Spider
-Large be
+Large beast, unaligned
+Hit Points: 26 (4d10+4) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Toad
+Large beast, unaligned
+Hit Points: 39 (6d10+6) 
+Armor Class: 11 
+Speed: 20 ft., swim 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Vulture
+Lar
