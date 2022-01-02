@@ -958,4 +958,18 @@ Speed: 20 ft., swim 40 ft.
 Challenge Rating: 1 (200 XP)
 
 Giant Vulture
-Lar
+Large beast, neutral evil
+Hit Points: 22 (3d10+6) 
+Armor Class: 10 
+Speed: 10 ft., fly 60 ft. 
+Challenge Rating: 1 (200 XP)
+
+Giant Wasp
+Medium beast, unaligned
+Hit Points: 13 (3d8) 
+Armor Class: 12 
+Speed: 10 ft., fly 50 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Giant Weasel
+Medium
