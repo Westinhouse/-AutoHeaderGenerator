@@ -986,4 +986,18 @@ Speed: 40 ft., climb 40 ft.
 Challenge Rating: 1/4 (50 XP)
 
 Gibbering Mouther
-Medium aberration,
+Medium aberration, neutral
+Hit Points: 67 (9d8+27) 
+Armor Class: 9 
+Speed: 10 ft., swim 10 ft. 
+Challenge Rating: 2 (450 XP)
+
+Glabrezu
+Large fiend (demon), chaotic evil
+Hit Points: 157 (15d10+75) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Gladiator
+Medium humanoid (a
