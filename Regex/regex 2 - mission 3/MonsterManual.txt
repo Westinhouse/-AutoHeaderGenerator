@@ -1065,4 +1065,17 @@ Challenge Rating: 3 (700 XP)
 Grick
 Medium monstrosity, neutral
 Hit Points: 27 (6d8) 
-Armor Class: 14 (Natur
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft., climb 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Griffon
+Large monstrosity, unaligned
+Hit Points: 59 (7d10+21) 
+Armor Class: 12 
+Speed: 30 ft., fly 80 ft. 
+Challenge Rating: 2 (450 XP)
+
+Grimlock
+Medium humanoid (grimlock), neutral evil
+Hit Points: 1
