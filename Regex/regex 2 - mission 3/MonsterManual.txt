@@ -1038,4 +1038,18 @@ Gorgon
 Large monstrosity, unaligned
 Hit Points: 114 (12d10+48) 
 Armor Class: 19 (Natural Armor) 
-Speed: 40 ft
+Speed: 40 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Gray Ooze
+Medium ooze, unaligned
+Hit Points: 22 (3d8+9) 
+Armor Class: 8 
+Speed: 10 ft., climb 10 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Green Dragon Wyrmling
+Medium dragon, lawful evil
+Hit Points: 38 (7d8+7) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., fly 60 
