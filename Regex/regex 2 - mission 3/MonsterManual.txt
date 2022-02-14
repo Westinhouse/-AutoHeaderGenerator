@@ -1091,4 +1091,15 @@ Speed: 30 ft.
 Challenge Rating: 1/8 (25 XP)
 
 Guardian Naga
-Large monstrosity, lawful
+Large monstrosity, lawful good
+Hit Points: 127 (15d10+45) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Gynosphinx
+Large monstrosity, lawful neutral
+Hit Points: 136 (16d10+48) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., fly 60 ft. 
+Challenge Rating: 11 (7,2
