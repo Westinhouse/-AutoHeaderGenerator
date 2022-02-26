@@ -1170,4 +1170,17 @@ Challenge Rating: 0 (10 XP)
 Horned Devil
 Large fiend (devil), lawful evil
 Hit Points: 178 (17d10+85) 
-Armor Class: 
+Armor Class: 18 (Natural Armor) 
+Speed: 20 ft., fly 60 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Hunter Shark
+Large beast, unaligned
+Hit Points: 45 (6d10+12) 
+Armor Class: 12 (Natural Armor) 
+Speed: Swim 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Hydra
+Huge monstrosity, unaligned
+Hit Points: 172 (15d1
