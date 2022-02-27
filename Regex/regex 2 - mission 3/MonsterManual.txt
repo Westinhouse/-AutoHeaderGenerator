@@ -1183,4 +1183,20 @@ Challenge Rating: 2 (450 XP)
 
 Hydra
 Huge monstrosity, unaligned
-Hit Points: 172 (15d1
+Hit Points: 172 (15d12+75) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., swim 30 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Hyena
+Medium beast, unaligned
+Hit Points: 5 (1d8+1) 
+Armor Class: 11 
+Speed: 50 ft. 
+Challenge Rating: 0 (10 XP)
+
+Ice Devil
+Large fiend (devil), lawful evil
+Hit Points: 180 (19d10+76) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 f
