@@ -1199,4 +1199,19 @@ Ice Devil
 Large fiend (devil), lawful evil
 Hit Points: 180 (19d10+76) 
 Armor Class: 18 (Natural Armor) 
-Speed: 40 f
+Speed: 40 ft. 
+Challenge Rating: 14 (11,500 XP)
+
+Ice Mephit
+Small elemental, neutral evil
+Hit Points: 21 (6d6) 
+Armor Class: 11 
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Imp
+Tiny fiend (devil, shapechanger), lawful evil
+Hit Points: 10 (3d4+3) 
+Armor Class: 13 
+Speed: 20 ft., fly 40 ft. 
+Chall
