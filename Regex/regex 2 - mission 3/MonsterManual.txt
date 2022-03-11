@@ -1214,4 +1214,17 @@ Tiny fiend (devil, shapechanger), lawful evil
 Hit Points: 10 (3d4+3) 
 Armor Class: 13 
 Speed: 20 ft., fly 40 ft. 
-Chall
+Challenge Rating: 1 (200 XP)
+
+Incubus
+Medium fiend (shapechanger), neutral evil
+Hit Points: 66 (12d8 + 12) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Invisible Stalker
+Medium elemental, neutral
+Hit Points: 104 (16d8+32) 
+Armor Class: 14 
+Speed:
