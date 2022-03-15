@@ -1227,4 +1227,18 @@ Invisible Stalker
 Medium elemental, neutral
 Hit Points: 104 (16d8+32) 
 Armor Class: 14 
-Speed:
+Speed: 50 ft., fly 50 ft. (hover) 
+Challenge Rating: 6 (2,300 XP)
+
+Iron Golem
+Large construct, unaligned
+Hit Points: 210 (20d10+100) 
+Armor Class: 20 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Jackal
+Small beast, unaligned
+Hit Points: 3 (1d6) 
+Armor Class: 12 
+Speed
