@@ -1241,4 +1241,17 @@ Jackal
 Small beast, unaligned
 Hit Points: 3 (1d6) 
 Armor Class: 12 
-Speed
+Speed: 40 ft. 
+Challenge Rating: 0 (10 XP)
+
+Killer Whale
+Huge beast, unaligned
+Hit Points: 90 (12d12+12) 
+Armor Class: 12 (Natural Armor) 
+Speed: Swim 60 ft. 
+Challenge Rating: 3 (700 XP)
+
+Knight
+Medium humanoid (any race), any alignment
+Hit Points: 52 (8d8+16) 
+Armor
