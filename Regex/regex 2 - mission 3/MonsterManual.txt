@@ -1254,4 +1254,18 @@ Challenge Rating: 3 (700 XP)
 Knight
 Medium humanoid (any race), any alignment
 Hit Points: 52 (8d8+16) 
-Armor
+Armor Class: 18 (Plate) 
+Speed: 30 ft. 
+Challenge Rating: 3 (700 XP)
+
+Kobold
+Small humanoid (kobold), lawful evil
+Hit Points: 5 (2d6-2) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Kraken
+Gargantuan monstrosity (titan), chaotic evil
+Hit Points: 472 (27d20+189) 
+Armor Class
