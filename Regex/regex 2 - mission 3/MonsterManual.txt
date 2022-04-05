@@ -1283,4 +1283,19 @@ Lemure
 Medium fiend (devil), lawful evil
 Hit Points: 13 (3d8) 
 Armor Class: 7 
-Speed: 15 
+Speed: 15 ft. 
+Challenge Rating: 0 (10 XP)
+
+Lich
+Medium undead, any evil alignment
+Hit Points: 135 (18d8+54) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 21 (33,000 XP)
+
+Lion
+Large beast, unaligned
+Hit Points: 26 (4d10+4) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 1 (200 
