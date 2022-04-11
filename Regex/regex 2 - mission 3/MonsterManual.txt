@@ -1352,4 +1352,18 @@ Challenge Rating: 3 (700 XP)
 Marilith
 Large fiend (demon), chaotic evil
 Hit Points: 189 (18d10+90) 
-Armor Class: 18 (Natur
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 16 (15,000 XP)
+
+Mastiff
+Medium beast, unaligned
+Hit Points: 5 (1d8+1) 
+Armor Class: 12 
+Speed: 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Medusa
+Medium monstrosity, lawful evil
+Hit Points: 127 (17d8+51) 
+Armor Class: 15 (Natural
