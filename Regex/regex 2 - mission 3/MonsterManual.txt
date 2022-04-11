@@ -1325,4 +1325,17 @@ Magma Mephit
 Small elemental, neutral evil
 Hit Points: 22 (5d6+5) 
 Armor Class: 11 
-Spe
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Magmin
+Small elemental, chaotic neutral
+Hit Points: 9 (2d6+2) 
+Armor Class: 14 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Mammoth
+Huge beast, unaligned
+Hit Points: 126 (11d12+55) 
+Armor Class: 13 (Natural Armo
