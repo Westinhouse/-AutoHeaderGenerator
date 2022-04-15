@@ -1380,4 +1380,18 @@ Challenge Rating: 1/8 (25 XP)
 Merrow
 Large monstrosity, chaotic evil
 Hit Points: 45 (6d10+12) 
-Armor Class: 13 (Natural Arm
+Armor Class: 13 (Natural Armor) 
+Speed: 10 ft., swim 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Mimic
+Medium monstrosity (shapechanger), neutral
+Hit Points: 58 (9d8+18) 
+Armor Class: 12 (Natural Armor) 
+Speed: 15 ft. 
+Challenge Rating: 2 (450 XP)
+
+Minotaur
+Large monstrosity, chaotic evil
+Hit Points: 76 (9d10+27) 
+Armor Class: 
