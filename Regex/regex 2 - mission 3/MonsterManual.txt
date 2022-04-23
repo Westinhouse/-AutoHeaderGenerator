@@ -1424,4 +1424,17 @@ Medium undead, lawful evil
 Hit Points: 97 (13d8+39) 
 Armor Class: 17 (Natural Armor) 
 Speed: 20 ft. 
-Challenge Rating: 
+Challenge Rating: 15 (13,000 XP)
+
+Nalfeshnee
+Large fiend (demon), chaotic evil
+Hit Points: 184 (16d10+96) 
+Armor Class: 18 (Natural Armor) 
+Speed: 20 ft., fly 30 ft. 
+Challenge Rating: 13 (10,000 XP)
+
+Night Hag
+Medium fiend, neutral evil
+Hit Points: 112 (15d8+45) 
+Armor Class: 17 (Natural Armor) 
+Spee
