@@ -1464,3 +1464,19 @@ Challenge Rating: 2 (450 XP)
 Octopus
 Small beast, unaligned
 Hit Points: 3 (1d6) 
+Armor Class: 12 
+Speed: 5 ft., swim 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Ogre
+Large giant, chaotic evil
+Hit Points: 59 (7d10+21) 
+Armor Class: 11 (Hide Armor) 
+Speed: 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Ogre Zombie
+Large undead, neutral evil
+Hit Points: 85 (9d10+36) 
+Armor Class: 8 
+Spee
