@@ -1508,4 +1508,18 @@ Tiny beast, unaligned
 Hit Points: 1 (1d4-1) 
 Armor Class: 11 
 Speed: 5 ft., fly 60 ft. 
-Challenge Rating: 0 (
+Challenge Rating: 0 (10 XP)
+
+Owlbear
+Large monstrosity, unaligned
+Hit Points: 59 (7d10+21) 
+Armor Class: 13 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 3 (700 XP)
+
+Panther
+Medium beast, unaligned
+Hit Points: 13 (3d8) 
+Armor Class: 12 
+Speed: 50 ft., climb 40 ft. 
+Challenge Rating: 1/4 (50 XP
