@@ -1577,4 +1577,18 @@ Pony
 Medium beast, unaligned
 Hit Points: 11 (2d8+2) 
 Armor Class: 10 
-Spee
+Speed: 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Priest
+Medium humanoid (any race), any alignment
+Hit Points: 27 (5d8+5) 
+Armor Class: 13 (Chain Shirt) 
+Speed: 25 ft. 
+Challenge Rating: 2 (450 XP)
+
+Pseudodragon
+Tiny dragon, neutral good
+Hit Points: 7 (2d4+2) 
+Armor Class: 13 
+Speed: 15
