@@ -1605,4 +1605,19 @@ Quasit
 Tiny fiend (demon), chaotic evil
 Hit Points: 7 (3d4) 
 Armor Class: 13 
-S
+Speed: 40 ft. 
+Challenge Rating: 1 (200 XP)
+
+Quipper
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 13 
+Speed: Swim 40 ft. 
+Challenge Rating: 0 (10 XP)
+
+Rakshasa
+Medium fiend, lawful evil
+Hit Points: 110 (13d8+52) 
+Armor Class: 16 (Natural Armor) 
+Speed: 40 ft. 
+C
