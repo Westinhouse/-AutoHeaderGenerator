@@ -1660,4 +1660,19 @@ Challenge Rating: 11 (7,200 XP)
 Rhinoceros
 Large beast, unaligned
 Hit Points: 45 (6d10+12) 
-Armor Class: 11
+Armor Class: 11 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 2 (450 XP)
+
+Riding Horse
+Large beast, unaligned
+Hit Points: 13 (2d10+2) 
+Armor Class: 10 
+Speed: 60 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Roc
+Gargantuan monstrosity, unaligned
+Hit Points: 248 (16d20+80) 
+Armor Class: 15 (Natural Armor) 
+Speed: 20 
