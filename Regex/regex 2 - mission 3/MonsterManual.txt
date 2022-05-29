@@ -1647,4 +1647,17 @@ Reef Shark
 Medium beast, unaligned
 Hit Points: 22 (4d8+4) 
 Armor Class: 12 (Natural Armor) 
-Speed: Swi
+Speed: Swim 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Remorhaz
+Huge monstrosity, unaligned
+Hit Points: 195 (17d12+85) 
+Armor Class: 17 (Natural Armor) 
+Speed: 30 ft., burrow 20 ft. 
+Challenge Rating: 11 (7,200 XP)
+
+Rhinoceros
+Large beast, unaligned
+Hit Points: 45 (6d10+12) 
+Armor Class: 11
