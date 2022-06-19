@@ -1731,4 +1731,17 @@ Scorpion
 Tiny beast, unaligned
 Hit Points: 1 (1d4-1) 
 Armor Class: 11 (Natural Armor) 
-S
+Speed: 10 ft. 
+Challenge Rating: 0 (10 XP)
+
+Scout
+Medium humanoid (any race), any alignment
+Hit Points: 16 (3d8+3) 
+Armor Class: 13 (Leather Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Sea Hag
+Medium fey, chaotic evil
+Hit Points: 52 (7d8+21) 
+Armor Class: 14 (Natural
