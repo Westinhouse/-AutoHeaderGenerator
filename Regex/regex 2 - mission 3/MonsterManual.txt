@@ -1716,4 +1716,19 @@ Challenge Rating: 1/2 (100 XP)
 Salamander
 Large elemental, neutral evil
 Hit Points: 90 (12d10+24) 
-Armor Class: 15 (Nat
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Satyr
+Medium fey, chaotic neutral
+Hit Points: 31 (7d8) 
+Armor Class: 14 (Leather Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Scorpion
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 11 (Natural Armor) 
+S
