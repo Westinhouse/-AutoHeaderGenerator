@@ -1761,3 +1761,15 @@ Hit Points: 16 (3d8+3)
 Armor Class: 12 
 Speed: 40 ft. 
 Challenge Rating: 1/2 (100 XP)
+
+Shambling Mound
+Large plant, unaligned
+Hit Points: 136 (16d10+48) 
+Armor Class: 15 (Natural Armor) 
+Speed: 20 ft., swim 20 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Shield Guardian
+Large construct, unaligned
+Hit Points: 142 (15d10+60) 
+Armor Class: 17 (Natural Armor) 
