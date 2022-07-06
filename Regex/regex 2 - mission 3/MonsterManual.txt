@@ -1801,4 +1801,18 @@ Solar
 Large celestial, lawful good
 Hit Points: 243 (18d10+144) 
 Armor Class: 21 (Natural Armor) 
-Speed
+Speed: 50 ft., fly 150 ft. 
+Challenge Rating: 21 (33,000 XP)
+
+Specter
+Medium undead, chaotic evil
+Hit Points: 22 (5d8) 
+Armor Class: 12 
+Speed: 0 ft., fly 50 ft. (hover) 
+Challenge Rating: 1 (200 XP)
+
+Spider
+Tiny beast, unaligned
+Hit Points: 1 (1d4-1) 
+Armor Class: 12 
+Speed: 20 ft., climb 
