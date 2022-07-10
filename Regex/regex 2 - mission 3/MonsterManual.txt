@@ -1829,4 +1829,18 @@ Sprite
 Tiny fey, neutral good
 Hit Points: 2 (1d4) 
 Armor Class: 15 (Leather Armor) 
+Speed: 10 ft., fly 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Spy
+Medium humanoid (any race), any alignment
+Hit Points: 27 (6d8) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 1 (200 XP)
+
+Steam Mephit
+Small elemental, neutral evil
+Hit Points: 21 (6d6) 
+Armor Class: 10 
 S
