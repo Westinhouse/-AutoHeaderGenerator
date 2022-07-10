@@ -1843,4 +1843,18 @@ Steam Mephit
 Small elemental, neutral evil
 Hit Points: 21 (6d6) 
 Armor Class: 10 
-S
+Speed: 30 ft., fly 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Stirge
+Tiny beast, unaligned
+Hit Points: 2 (1d4) 
+Armor Class: 14 (Natural Armor) 
+Speed: 10 ft., fly 40 ft. 
+Challenge Rating: 1/8 (25 XP)
+
+Stone Giant
+Huge giant, neutral
+Hit Points: 126 (11d12+55) 
+Armor Class: 17 (Natural Armor) 
+Sp
