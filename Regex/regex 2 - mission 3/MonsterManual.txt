@@ -1871,4 +1871,16 @@ Storm Giant
 Huge giant, chaotic good
 Hit Points: 230 (20d12+100) 
 Armor Class: 16 (Scale Mail) 
-Speed: 50 ft., swi
+Speed: 50 ft., swim 50 ft. 
+Challenge Rating: 13 (10,000 XP)
+
+Succubus
+Medium fiend (shapechanger), neutral evil
+Hit Points: 66 (12d8 + 12) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Succubus (Incubus)
+Medium fiend (shapechanger), neutral evil
+Hit Poin
