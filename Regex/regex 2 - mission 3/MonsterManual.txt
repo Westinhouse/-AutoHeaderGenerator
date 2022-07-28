@@ -1883,4 +1883,16 @@ Challenge Rating: 4 (1,100 XP)
 
 Succubus (Incubus)
 Medium fiend (shapechanger), neutral evil
-Hit Poin
+Hit Points: 66 (12d8+12) 
+Armor Class: 15 (Natural Armor) 
+Speed: 30 ft., fly 60 ft. 
+Challenge Rating: 4 (1,100 XP)
+
+Swarm of Bats
+Medium swarm of tiny beasts, unaligned
+Hit Points: 22 (5d8) 
+Armor Class: 12 
+Speed: 0 ft., fly 30 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Swarm of Beetles
