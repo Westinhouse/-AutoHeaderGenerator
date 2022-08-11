@@ -1961,4 +1961,17 @@ Challenge Rating: 1/2 (100 XP)
 Tarrasque
 Gargantuan monstrosity (titan), unaligned
 Hit Points: 676 (33d20+330) 
-Armor Class: 25 (N
+Armor Class: 25 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 30 (155,000 XP)
+
+Thug
+Medium humanoid (any race), any non-good alignment
+Hit Points: 32 (5d8+10) 
+Armor Class: 11 (Leather Armor) 
+Speed: 30 ft. 
+Challenge Rating: 1/2 (100 XP)
+
+Tiger
+Large beast, unaligned
+Hit Points: 37 (5d10+1
