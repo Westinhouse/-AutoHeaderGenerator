@@ -2015,4 +2015,18 @@ Speed: 50 ft.
 Challenge Rating: 8 (3,900 XP)
 
 Unicorn
-Large celestial
+Large celestial, lawful good
+Hit Points: 67 (9d10+18) 
+Armor Class: 12 
+Speed: 50 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Vampire
+Medium undead (shapechanger), lawful evil
+Hit Points: 144 (17d8+68) 
+Armor Class: 16 (Natural Armor) 
+Speed: 30 ft. 
+Challenge Rating: 13 (10,000 XP)
+
+Vampire Spawn
+Medi
