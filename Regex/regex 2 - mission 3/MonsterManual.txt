@@ -2042,4 +2042,20 @@ Armor Class: 17 (Splint)
 Speed: 30 ft. 
 Challenge Rating: 3 (700 XP)
 
-Violet 
+Violet Fungus
+Medium plant, unaligned
+Hit Points: 18 (4d8) 
+Armor Class: 5 
+Speed: 5 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Vrock
+Large fiend (demon), chaotic evil
+Hit Points: 104 (11d10+44) 
+Armor Class: 15 (Natural Armor) 
+Speed: 40 ft., fly 60 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Vulture
+Medium beast, unaligned
+Hit
