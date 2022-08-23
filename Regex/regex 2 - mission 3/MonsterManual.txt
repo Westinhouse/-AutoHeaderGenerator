@@ -2086,4 +2086,14 @@ Challenge Rating: 5 (1,800 XP)
 
 Weasel
 Tiny beast, unaligned
-Hit Points: 1 (1d4-
+Hit Points: 1 (1d4-1) 
+Armor Class: 13 
+Speed: 30 ft. 
+Challenge Rating: 0 (10 XP)
+
+Werebear
+Medium humanoid (human, shapechanger), neutral good
+Hit Points: 135 (18d8+54) 
+Armor Class: 10 (In Humanoid Form, 11 In Bear And Hybrid Forms ) 
+Speed: 30 ft. (40 ft., climb 30 ft. in bear or hybrid form) 
+Challenge Rating
