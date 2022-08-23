@@ -2106,4 +2106,15 @@ Speed: 30 ft. (40 ft. in boar form)
 Challenge Rating: 4 (1,100 XP)
 
 Wererat
-Medium humanoid (human, shapechang
+Medium humanoid (human, shapechanger), lawful evil
+Hit Points: 33 (6d8+6) 
+Armor Class: 12 
+Speed: 30 ft. 
+Challenge Rating: 2 (450 XP)
+
+Weretiger
+Medium humanoid (human, shapechanger), neutral
+Hit Points: 120 (16d8+48) 
+Armor Class: 12 
+Speed: 30 ft. (40 ft. in tiger form) 
+Challenge Rating: 4 (1,100 XP)
