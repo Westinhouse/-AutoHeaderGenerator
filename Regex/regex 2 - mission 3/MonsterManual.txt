@@ -2154,3 +2154,16 @@ Armor Class: 13 (Natural Armor)
 Speed: 50 ft. 
 Challenge Rating: 3 (700 XP)
 
+Wolf
+Medium beast, unaligned
+Hit Points: 11 (2d8+2) 
+Armor Class: 13 (Natural Armor) 
+Speed: 40 ft. 
+Challenge Rating: 1/4 (50 XP)
+
+Worg
+Large monstrosity, neutral evil
+Hit Points: 26 (4d10+4) 
+Armor Class: 13 (Natural Armor) 
+Speed: 50 ft. 
+Challenge Ra
