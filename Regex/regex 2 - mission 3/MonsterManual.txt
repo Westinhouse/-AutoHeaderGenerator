@@ -2166,4 +2166,17 @@ Large monstrosity, neutral evil
 Hit Points: 26 (4d10+4) 
 Armor Class: 13 (Natural Armor) 
 Speed: 50 ft. 
-Challenge Ra
+Challenge Rating: 1/2 (100 XP)
+
+Wraith
+Medium undead, neutral evil
+Hit Points: 67 (9d8+27) 
+Armor Class: 13 
+Speed: 0 ft., fly 60 ft. (hover) 
+Challenge Rating: 5 (1,800 XP)
+
+Wyvern
+Large dragon, unaligned
+Hit Points: 110 (13d10+39) 
+Armor Class: 13 (Natural Armor) 
+Speed: 20 ft., fly 80 ft
