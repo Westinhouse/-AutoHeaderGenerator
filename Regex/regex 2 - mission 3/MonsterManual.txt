@@ -2192,4 +2192,15 @@ Challenge Rating: 5 (1,800 XP)
 Young Black Dragon
 Large dragon, chaotic evil
 Hit Points: 127 (15d10+45) 
-Armor Class: 18 (Natu
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 7 (2,900 XP)
+
+Young Blue Dragon
+Large dragon, lawful evil
+Hit Points: 152 (16d10+64) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., burrow 40 ft., fly 80 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Youn
