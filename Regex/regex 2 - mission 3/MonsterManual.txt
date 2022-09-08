@@ -2203,4 +2203,14 @@ Armor Class: 18 (Natural Armor)
 Speed: 40 ft., burrow 40 ft., fly 80 ft. 
 Challenge Rating: 9 (5,000 XP)
 
-Youn
+Young Brass Dragon
+Large dragon, chaotic good
+Hit Points: 110 (13d10+39) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow 20 ft., fly 80 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Young Bronze Dragon
+Large dragon, lawful good
+Hit Points: 142 (15d10+60) 
+Armor Class: 18 (
