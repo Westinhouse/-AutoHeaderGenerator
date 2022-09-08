@@ -2179,4 +2179,17 @@ Wyvern
 Large dragon, unaligned
 Hit Points: 110 (13d10+39) 
 Armor Class: 13 (Natural Armor) 
-Speed: 20 ft., fly 80 ft
+Speed: 20 ft., fly 80 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Xorn
+Medium elemental, neutral
+Hit Points: 73 (7d8+42) 
+Armor Class: 19 (Natural Armor) 
+Speed: 20 ft., burrow 20 ft. 
+Challenge Rating: 5 (1,800 XP)
+
+Young Black Dragon
+Large dragon, chaotic evil
+Hit Points: 127 (15d10+45) 
+Armor Class: 18 (Natu
