@@ -2235,4 +2235,15 @@ Young Green Dragon
 Large dragon, lawful evil
 Hit Points: 136 (16d10+48) 
 Armor Class: 18 (Natural Armor) 
-Speed: 40 ft., fly 8
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 8 (3,900 XP)
+
+Young Red Dragon
+Large dragon, chaotic evil
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., climb 40 ft., fly 80 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Young Silver Dragon
+Large dragon, lawful
