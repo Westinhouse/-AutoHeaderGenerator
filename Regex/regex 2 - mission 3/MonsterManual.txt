@@ -2224,4 +2224,15 @@ Armor Class: 17 (Natural Armor)
 Speed: 40 ft., climb 40 ft., fly 80 ft. 
 Challenge Rating: 7 (2,900 XP)
 
-Young Gold Dra
+Young Gold Dragon
+Large dragon, lawful good
+Hit Points: 178 (17d10+85) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 10 (5,900 XP)
+
+Young Green Dragon
+Large dragon, lawful evil
+Hit Points: 136 (16d10+48) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 8
