@@ -2246,4 +2246,14 @@ Speed: 40 ft., climb 40 ft., fly 80 ft.
 Challenge Rating: 10 (5,900 XP)
 
 Young Silver Dragon
-Large dragon, lawful
+Large dragon, lawful good
+Hit Points: 168 (16d10+80) 
+Armor Class: 18 (Natural Armor) 
+Speed: 40 ft., fly 80 ft. 
+Challenge Rating: 9 (5,000 XP)
+
+Young White Dragon
+Large dragon, chaotic evil
+Hit Points: 133 (14d10+56) 
+Armor Class: 17 (Natural Armor) 
+Speed: 40 ft., burrow
