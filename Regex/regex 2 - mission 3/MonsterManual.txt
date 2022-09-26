@@ -2256,4 +2256,12 @@ Young White Dragon
 Large dragon, chaotic evil
 Hit Points: 133 (14d10+56) 
 Armor Class: 17 (Natural Armor) 
-Speed: 40 ft., burrow
+Speed: 40 ft., burrow 20 ft., fly 80 ft., swim 40 ft. 
+Challenge Rating: 6 (2,300 XP)
+
+Zombie
+Medium undead, neutral evil
+Hit Points: 22 (3d8+9) 
+Armor Class: 8 
+Speed: 20 ft. 
+Challenge Rating: 1/4 (50 XP)
