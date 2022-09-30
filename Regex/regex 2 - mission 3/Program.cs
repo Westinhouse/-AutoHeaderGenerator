@@ -18,4 +18,10 @@ namespace regex_2___mission_3
             List<string> alignment = new List<string>();
 
             //Setting which character we will split the string at later
-            char[] deli
+            char[] delimiterChars = { ',' };
+
+            //Let's go trough the list line by line
+            for (int i = 0; i < monsterManual.Length; i++)
+            {
+                //If we find a line that contains a specified alignment, do the following
+                if (Regex.IsMatch(monsterManual[i], 
