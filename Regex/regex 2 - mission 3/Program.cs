@@ -24,4 +24,10 @@ namespace regex_2___mission_3
             for (int i = 0; i < monsterManual.Length; i++)
             {
                 //If we find a line that contains a specified alignment, do the following
-                if (Regex.IsMatch(monsterManual[i], 
+                if (Regex.IsMatch(monsterManual[i], "(chaotic|neutral|lawful) (good|neutral|evil)"))
+                {
+                    //Store the whole line in a string
+                    string text = monsterManual[i];
+
+                    // Split the string using the comma(s)
+                    string[] words = text.Split(del
