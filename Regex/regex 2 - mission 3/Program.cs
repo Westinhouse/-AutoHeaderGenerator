@@ -30,4 +30,9 @@ namespace regex_2___mission_3
                     string text = monsterManual[i];
 
                     // Split the string using the comma(s)
-                    string[] words = text.Split(del
+                    string[] words = text.Split(delimiterChars);
+
+                    //Go up one line to find the name of the monster, add it to the list of names
+                    monsterNames.Add(monsterManual[i - 1]);
+
+                    //Add the alignment. We want to trim the whitespace after the comma, an
