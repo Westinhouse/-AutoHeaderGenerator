@@ -35,4 +35,9 @@ namespace regex_2___mission_3
                     //Go up one line to find the name of the monster, add it to the list of names
                     monsterNames.Add(monsterManual[i - 1]);
 
-                    //Add the alignment. We want to trim the whitespace after the comma, an
+                    //Add the alignment. We want to trim the whitespace after the comma, and in some cases (shapeshifters) there are multiple commas in the line
+                    //So we need to make sure to just grab the last part of the string and add it to the list of alignments
+                    alignment.Add(words[words.Length - 1].Trim());
+
+                }
+    
