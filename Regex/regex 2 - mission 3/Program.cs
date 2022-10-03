@@ -40,4 +40,10 @@ namespace regex_2___mission_3
                     alignment.Add(words[words.Length - 1].Trim());
 
                 }
-    
+            }
+            //Print both lists (monster names and alignments)
+            Console.WriteLine("Aligned monsters in the manual are:");
+
+            for (int i = 0; i < monsterNames.Count; i++)
+            {
+                Console.WriteLine($"{monsterNames[i]} ({alig
