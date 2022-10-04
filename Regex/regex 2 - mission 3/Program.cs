@@ -46,4 +46,9 @@ namespace regex_2___mission_3
 
             for (int i = 0; i < monsterNames.Count; i++)
             {
-                Console.WriteLine($"{monsterNames[i]} ({alig
+                Console.WriteLine($"{monsterNames[i]} ({alignment[i]})");
+                Console.WriteLine();
+            }
+        }
+    }
+}
