@@ -1,0 +1,26 @@
+
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algothm design 1 mission 2", "Algothm design 1 mission 2.csproj", "{75F522BC-7BD6-4CB3-B153-38DB5BA2FF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75F522BC-7BD6-4CB3-B153-38DB5BA2FF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75F522BC-7BD6-4CB3-B153-38DB5BA2FF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75F522BC-7BD6-4CB3-B153-38DB5BA2FF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75F522BC-7BD6-4CB3-B153-38DB5BA2FF99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCFA5023-8C69-4066-A7C5-D3723EBA35A7}
+	EndGlobalSection
+EndGlobal
