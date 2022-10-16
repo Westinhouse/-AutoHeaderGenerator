@@ -18,4 +18,16 @@ namespace Algothm_design_1_mission_2
             else if (count == 1)
             {
                 return($"{heroes[0]}");
-         
+            }
+
+            else if (count == 2)
+            {
+                return(String.Join(" and ", heroes));
+            }
+
+            else
+            {
+                //Generate new list as per flowchart
+                List<string> newList = new List<string>(heroes);
+
+               
