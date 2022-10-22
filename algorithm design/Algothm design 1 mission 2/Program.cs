@@ -30,4 +30,10 @@ namespace Algothm_design_1_mission_2
                 //Generate new list as per flowchart
                 List<string> newList = new List<string>(heroes);
 
-               
+                //Initialize variables for second to last and last for cleaner writing.
+                int last = newList.Count - 1;
+                int secondToLast = newList.Count - 2;
+
+                if (commaFlag)
+                {
+                    newList[last] = "and " 
