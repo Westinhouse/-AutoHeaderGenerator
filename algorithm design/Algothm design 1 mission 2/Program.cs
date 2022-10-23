@@ -36,4 +36,10 @@ namespace Algothm_design_1_mission_2
 
                 if (commaFlag)
                 {
-                    newList[last] = "and " 
+                    newList[last] = "and " + newList[last];
+                    return (String.Join(", ", newList )); 
+                }
+                else
+                {
+                    newList[secondToLast] = newList[secondToLast] + " and " + newList[last];
+                    newList.Remo
