@@ -51,4 +51,10 @@ namespace Algothm_design_1_mission_2
         static void Main(string[] args)
         {
             // Create the party
-            var heroes = new List<string> { "Jazlyn", "Theron", "Dayana", "Roland
+            var heroes = new List<string> { "Jazlyn", "Theron", "Dayana", "Rolando" };
+            Console.WriteLine(JoinWithAnd(heroes, true));
+            
+
+        }
+    }
+}
