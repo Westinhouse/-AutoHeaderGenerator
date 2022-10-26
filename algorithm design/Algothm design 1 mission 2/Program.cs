@@ -42,4 +42,13 @@ namespace Algothm_design_1_mission_2
                 else
                 {
                     newList[secondToLast] = newList[secondToLast] + " and " + newList[last];
-                    newList.Remo
+                    newList.RemoveAt(newList.Count - 1);
+                    return String.Join(", ", newList);
+                }
+            }
+
+        }
+        static void Main(string[] args)
+        {
+            // Create the party
+            var heroes = new List<string> { "Jazlyn", "Theron", "Dayana", "Roland
