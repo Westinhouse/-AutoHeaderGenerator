@@ -21,4 +21,18 @@ namespace algorithm_design_1__mission__3
                 return result;
             }
 
-            if (lastDigit == 2
+            if (lastDigit == 2 )
+            {
+                string result = ($"{number}nd");
+                return result;
+            }
+
+            if (lastDigit == 3)
+            {
+                string result = ($"{number}rd");
+                return result;
+            }
+
+            else
+            {
+                string result = ($"{number}t
