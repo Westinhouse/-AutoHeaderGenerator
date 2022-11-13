@@ -35,4 +35,11 @@ namespace algorithm_design_1__mission__3
 
             else
             {
-                string result = ($"{number}t
+                string result = ($"{number}th");
+                return result;
+            }
+        }
+        static void Main(string[] args)
+        {
+            bool quit = false;
+            Console.WriteLine("Hello! im going to take whatever integer you give me and t
