@@ -42,4 +42,10 @@ namespace algorithm_design_1__mission__3
         static void Main(string[] args)
         {
             bool quit = false;
-            Console.WriteLine("Hello! im going to take whatever integer you give me and t
+            Console.WriteLine("Hello! im going to take whatever integer you give me and turn it into a ordinal number, cool huh?");
+            while (quit == false)
+
+            {
+                Console.WriteLine("So, what number do you want to give me?");
+                string input = Console.ReadLine();
+                int number = int.Parse(inpu
