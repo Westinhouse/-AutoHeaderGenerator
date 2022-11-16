@@ -48,4 +48,11 @@ namespace algorithm_design_1__mission__3
             {
                 Console.WriteLine("So, what number do you want to give me?");
                 string input = Console.ReadLine();
-                int number = int.Parse(inpu
+                int number = int.Parse(input);
+                string result = OrdinalNumber(number);
+                Console.WriteLine($"{result}, nifty huh? lets do it again");
+                Console.WriteLine("---");
+            }
+        }
+    }
+}
