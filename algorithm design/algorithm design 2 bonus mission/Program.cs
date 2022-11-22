@@ -24,4 +24,12 @@ namespace algorithm_design_2_bonus_mission
             if (start == end)
             {
                 // We have one of our possible n! solutions,
-                //
+                // add it to the list.
+                list.Add(new List<int>(nums));
+            }
+            else
+            {
+                for (var i = start; i <= end; i++)
+                {
+                    Swap(ref nums[start], ref nums[i]);
+                    DoPermute(nums
