@@ -45,4 +45,15 @@ namespace algorithm_design_2_bonus_mission
             var temp = a;
             a = b;
             b = temp;
-       
+        }
+
+        static void PrintResult(IList<IList<int>> lists)
+        {
+            Console.WriteLine("[");
+            foreach (var list in lists)
+            {
+                Console.WriteLine($"    [{string.Join(',', list)}]");
+            }
+            Console.WriteLine("]");
+        }
+   
