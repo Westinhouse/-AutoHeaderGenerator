@@ -56,4 +56,6 @@ namespace algorithm_design_2_bonus_mission
             }
             Console.WriteLine("]");
         }
-   
+    }
+}
+
