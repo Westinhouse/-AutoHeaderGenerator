@@ -32,4 +32,17 @@ namespace algorithm_design_2_bonus_mission
                 for (var i = start; i <= end; i++)
                 {
                     Swap(ref nums[start], ref nums[i]);
-                    DoPermute(nums
+                    DoPermute(nums, start + 1, end, list);
+                    Swap(ref nums[start], ref nums[i]);
+                }
+            }
+
+            return list;
+        }
+
+        static void Swap(ref int a, ref int b)
+        {
+            var temp = a;
+            a = b;
+            b = temp;
+       
