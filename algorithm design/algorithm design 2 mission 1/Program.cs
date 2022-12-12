@@ -18,4 +18,13 @@ namespace algorithm_design_2_mission_1
             
             return String.Join(", ", names);
         }
-        static string JoinWithAnd(List<string> 
+        static string JoinWithAnd(List<string> names)
+        {
+            List<string> newList = new List<string>(names);
+
+            //Initialize variables for second to last and last for cleaner writing.
+            int last = newList.Count - 1;
+            int secondToLast = newList.Count - 2;
+
+
+            newList[secondToLast] = newLi
