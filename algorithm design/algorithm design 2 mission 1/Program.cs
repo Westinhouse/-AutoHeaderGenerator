@@ -27,4 +27,10 @@ namespace algorithm_design_2_mission_1
             int secondToLast = newList.Count - 2;
 
 
-            newList[secondToLast] = newLi
+            newList[secondToLast] = newList[secondToLast] + " and " + newList[last];
+            newList.RemoveAt(newList.Count - 1);
+            return String.Join(", ", newList);
+        }
+        static void Main(string[] args)
+        {
+            var names = new List<string> { "Allie", "Ben", "Claire", "Dan", "E
