@@ -33,4 +33,10 @@ namespace algorithm_design_2_mission_1
         }
         static void Main(string[] args)
         {
-            var names = new List<string> { "Allie", "Ben", "Claire", "Dan", "E
+            var names = new List<string> { "Allie", "Ben", "Claire", "Dan", "Eleanor", "Slagathor the Grotesque" };
+
+            Console.Write("Signed up participants: ");
+            Console.WriteLine(JoinWithAnd(names));
+            Console.WriteLine("Generating starting order . . . ");
+            ShuffleList(names);
+            Console.WriteLine
