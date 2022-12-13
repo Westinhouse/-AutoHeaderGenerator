@@ -39,4 +39,8 @@ namespace algorithm_design_2_mission_1
             Console.WriteLine(JoinWithAnd(names));
             Console.WriteLine("Generating starting order . . . ");
             ShuffleList(names);
-            Console.WriteLine
+            Console.WriteLine(JoinWithAnd(names));
+            
+        }
+    }
+}
