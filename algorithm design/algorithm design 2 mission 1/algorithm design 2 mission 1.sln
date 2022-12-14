@@ -3,4 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm design 2 mission 1", "algorithm design
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algorithm design 2 mission 1", "algorithm design 2 mission 1.csproj", "{524DF01B-60EE-4CD1-B456-F99A09E67A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{524
