@@ -1,4 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</Outpu
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>Arrays_boss_level_part_1</RootNamespace>
+  </PropertyGroup>
+
+</Project>
