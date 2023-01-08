@@ -1,4 +1,9 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <Ou
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>algorithm_design_7___mission_3</RootNamespace>
+  </PropertyGroup>
+
+</Project>
