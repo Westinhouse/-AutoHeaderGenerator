@@ -8,4 +8,12 @@ namespace arrays_1
         static void CreateDayDescription(int day, int season, int year)
         {
             string[] days = {"1", "2", "3", "4"};
-            string[] seasons = {"Spring", "Summer",
+            string[] seasons = {"Spring", "Summer", "Fall", "Winter"};
+            string[] years = {"130", "312", "241", "156"};
+            Console.WriteLine($"It is the {days[day]} day of {seasons[season]} of the year {years[year]}");
+           
+        }
+        static void Main(string[] args)
+        {
+            var random = new Random();
+            fo
