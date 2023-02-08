@@ -16,4 +16,8 @@ namespace arrays_1
         static void Main(string[] args)
         {
             var random = new Random();
-            fo
+            for (int i = 0; i < 5; i++)
+            CreateDayDescription(random.Next(0, 4), random.Next(0, 4), random.Next(0, 4));
+        }
+    }
+}
