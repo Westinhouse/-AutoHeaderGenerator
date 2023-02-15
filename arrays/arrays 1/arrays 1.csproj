@@ -2,4 +2,8 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
-    <TargetFramework>net5.0</TargetFramewo
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>arrays_1</RootNamespace>
+  </PropertyGroup>
+
+</Project>
