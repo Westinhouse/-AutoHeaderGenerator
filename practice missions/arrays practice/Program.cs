@@ -22,4 +22,12 @@ namespace arrays_practice
             //    Console.Write(dayNumbers[i]);
             //}
 
-           
+            var random = new Random();
+            int[] numbers = new int[random.Next(5, 11)];
+
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                numbers[i] = random.Next(1, 10);
+            }
+            Console.Write($"{numbers.Length} numbers are:");
+   
