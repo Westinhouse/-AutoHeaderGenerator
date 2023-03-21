@@ -30,4 +30,10 @@ namespace arrays_practice
                 numbers[i] = random.Next(1, 10);
             }
             Console.Write($"{numbers.Length} numbers are:");
-   
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                Console.Write($"{numbers[i]}, ");
+            }
+        }
+    }
+}
