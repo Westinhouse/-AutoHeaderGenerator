@@ -4,3 +4,6 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>Roll_to_six</RootNamespace>
+  </PropertyGroup>
+
+</Project>
